@@ -88,7 +88,7 @@ Also available in: [한국어](README.ko.md) · [Tiếng Việt](README.vi.md) �
 
 ## Healthcare and Insurance
 
-- [National Health Insurance Service (NHIS)](https://www.nhis.or.kr/) - Official health insurance portal. English: [NHIS English](https://www.nhis.or.kr/english/).
+- [National Health Insurance Service (NHIS)](https://www.nhis.or.kr/) - Official health insurance portal. English: [NHIS English](https://www.nhis.or.kr/english/index.do).
 - [NHIS Enrollment Guide](https://seoulstart.com/guides/nhis-enrollment-guide) - When you're enrolled automatically, when you pay, what's covered.
 - [Finding English-Speaking Doctors in Korea](https://seoulstart.com/guides/finding-english-speaking-doctors-korea) - International clinics, hospital language services, online tools.
 - [Korea Emergency Room Guide](https://seoulstart.com/guides/korea-emergency-room-guide) - When to use which hospital, what NHIS covers, costs.
