@@ -1,6 +1,6 @@
 # Mga Praktikal na Resources para sa mga Pilipino sa Korea
 
-> Government portals, mapagkakatiwalaang guides, calculators, at directories para sa mga 2.84 milyong foreign residents na nakatira sa Korea. Visa, housing, insurance, taxes - yung mga systems na walang kasamang instructions.
+> Government portals, mapagkakatiwalaang guides, calculators, at directories para sa mga 3 milyong foreign residents na nakatira sa Korea. Visa, housing, insurance, taxes - yung mga systems na walang kasamang instructions.
 
 Curated list na ina-update ng [Seoulstart](https://seoulstart.com/fil).
 
@@ -20,7 +20,7 @@ Curated list na ina-update ng [Seoulstart](https://seoulstart.com/fil).
 
 Naka-organize by topic ang full curated list sa [English README](README.md):
 
-- First 90 Days / Visa / Housing / Money at Taxes / Healthcare / Family / Work / Korean Language at KIIP / Culture / Pets
+- First 90 Days / Visa / Housing / Money at Taxes / Healthcare / Family / Work / Korean Language at KIIP / Culture / Pets / Communities at Everyday Apps / Leaving Korea
 
 Pwede mong basahin ang mga guides na ito sa Filipino sa [seoulstart.com/fil](https://seoulstart.com/fil). Lalo na helpful para sa EPS workers (E-9), F-6 marriage visa holders, at students.
 

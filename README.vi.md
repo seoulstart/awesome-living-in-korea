@@ -1,6 +1,6 @@
 # Tài nguyên thực tế cho người Việt sống ở Hàn Quốc
 
-> Cổng thông tin chính phủ, hướng dẫn đáng tin cậy, máy tính và danh bạ dành cho khoảng 2,84 triệu cư dân nước ngoài đang sống ở Hàn Quốc. Visa, nhà ở, bảo hiểm, thuế - những hệ thống không đi kèm hướng dẫn sử dụng.
+> Cổng thông tin chính phủ, hướng dẫn đáng tin cậy, máy tính và danh bạ dành cho khoảng 3 triệu cư dân nước ngoài đang sống ở Hàn Quốc. Visa, nhà ở, bảo hiểm, thuế - những hệ thống không đi kèm hướng dẫn sử dụng.
 
 Danh sách được [Seoulstart](https://seoulstart.com/vi) tuyển chọn và duy trì.
 
@@ -20,7 +20,7 @@ Danh sách được [Seoulstart](https://seoulstart.com/vi) tuyển chọn và d
 
 Danh sách đầy đủ được phân loại theo chủ đề trong [README tiếng Anh](README.md):
 
-- 90 ngày đầu / Visa / Nhà ở / Tiền và thuế / Y tế và bảo hiểm / Gia đình / Việc làm / Tiếng Hàn và KIIP / Văn hóa / Thú cưng
+- 90 ngày đầu / Visa / Nhà ở / Tiền và thuế / Y tế và bảo hiểm / Gia đình / Việc làm / Tiếng Hàn và KIIP / Văn hóa / Thú cưng / Cộng đồng và ứng dụng hàng ngày / Rời Hàn Quốc
 
 Bạn có thể đọc các hướng dẫn này bằng tiếng Việt tại [seoulstart.com/vi](https://seoulstart.com/vi). Đặc biệt hữu ích cho lao động EPS (E-9), gia đình kết hôn quốc tế (F-6) và du học sinh (D-2).
 
