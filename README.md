@@ -105,8 +105,6 @@ Banking and remittance (all commercial):
 
 - [Danuri (다누리) / Live in Korea](https://www.liveinkorea.kr/portal/USA/main/main.do) - Multicultural-family portal and the 1577-1366 helpline in 13 languages.
 - [Ministry of Gender Equality and Family](https://www.mogef.go.kr/eng/pc/eng_pc_f006.do) - What the local Multicultural and Healthy Family Support Centers offer.
-
-
 - [Healthy Family Support Centers (Familynet)](https://www.familynet.or.kr/) - Neighborhood centers: Korean classes, parenting, and family counseling. Mostly Korean.
 - [Bokjiro: Child Allowance (English)](https://www.bokjiro.go.kr/nwel/html/world/en/WII00000496.html) - Official eligibility and how to apply, including foreign parents of Korean children.
 - [Seoul Multicultural Family Portal (Hanultari)](https://mcfamily.or.kr/en) - Seoul-specific support with a multilingual chatbot.
@@ -194,7 +192,6 @@ Helplines:
 ## Other Government Portals
 
 The portals below are the meta-references and cross-cutting services. Topic-specific government portals (HiKorea, NHIS, NTS, EPS, and the rest) live in their own sections above.
-
 
 - [Government 24 (gov.kr)](https://www.gov.kr/portal/main/en) - Master portal for about 12,000 public services. Many certificates issue in English.
 - [Korea Legal Aid Corporation (KLAC)](https://www.klac.or.kr) - Free legal consultation for residents under an income threshold. Hotline 132.
