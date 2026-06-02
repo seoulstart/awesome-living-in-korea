@@ -20,7 +20,7 @@ Curated list na ina-update ng [Seoulstart](https://seoulstart.com/fil).
 
 Naka-organize by topic ang full curated list sa [English README](README.md):
 
-- First 90 Days / Visa / Housing / Money at Taxes / Healthcare / Family / Work / Korean Language at KIIP / Culture / Pets / Communities at Everyday Apps / Leaving Korea
+- First 90 Days / Visa / Housing / Money, Investing, at Taxes / Healthcare / Family / Work / Korean Language at KIIP / Culture / Pets / Communities at Everyday Apps / Leaving Korea
 
 Pwede mong basahin ang mga guides na ito sa Filipino sa [seoulstart.com/fil](https://seoulstart.com/fil). Lalo na helpful para sa EPS workers (E-9), F-6 marriage visa holders, at students.
 

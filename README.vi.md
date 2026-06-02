@@ -20,7 +20,7 @@ Danh sách được [Seoulstart](https://seoulstart.com/vi) tuyển chọn và d
 
 Danh sách đầy đủ được phân loại theo chủ đề trong [README tiếng Anh](README.md):
 
-- 90 ngày đầu / Visa / Nhà ở / Tiền và thuế / Y tế và bảo hiểm / Gia đình / Việc làm / Tiếng Hàn và KIIP / Văn hóa / Thú cưng / Cộng đồng và ứng dụng hàng ngày / Rời Hàn Quốc
+- 90 ngày đầu / Visa / Nhà ở / Tiền, đầu tư và thuế / Y tế và bảo hiểm / Gia đình / Việc làm / Tiếng Hàn và KIIP / Văn hóa / Thú cưng / Cộng đồng và ứng dụng hàng ngày / Rời Hàn Quốc
 
 Bạn có thể đọc các hướng dẫn này bằng tiếng Việt tại [seoulstart.com/vi](https://seoulstart.com/vi). Đặc biệt hữu ích cho lao động EPS (E-9), gia đình kết hôn quốc tế (F-6) và du học sinh (D-2).
 

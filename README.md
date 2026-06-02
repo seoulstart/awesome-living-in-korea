@@ -13,7 +13,7 @@ Also available in: [한국어](README.ko.md) · [Tiếng Việt](README.vi.md) �
 - [Arrival and First 90 Days](#arrival-and-first-90-days)
 - [Visas](#visas)
 - [Housing](#housing)
-- [Money, Banking, and Taxes](#money-banking-and-taxes)
+- [Money, Banking, Investing, and Taxes](#money-banking-investing-and-taxes)
 - [Healthcare and Insurance](#healthcare-and-insurance)
 - [Family Life](#family-life)
 - [Work](#work)
@@ -56,19 +56,38 @@ Also available in: [한국어](README.ko.md) · [Tiếng Việt](README.vi.md) �
 - [Wolse Explained (월세)](https://seoulstart.com/guides/wolse-explained) - Monthly rent, deposit math, and what landlords expect.
 - [How to Avoid Deposit Scams](https://seoulstart.com/guides/how-to-avoid-deposit-scams) - Checks to run before you hand over a deposit.
 
-## Money, Banking, and Taxes
+## Money, Banking, Investing, and Taxes
+
+Official sources:
 
 - [National Tax Service (NTS, English)](https://www.nts.go.kr/english/main.do) - Income-tax guides for residents and nonresidents. English helpline 1588-0560, press 7.
 - [Hometax](https://www.hometax.go.kr/) - Online tax filing and year-end settlement (연말정산). Mainly Korean.
 - [National Pension Service (NPS)](https://www.nps.or.kr/jsppage/english/scheme/scheme_04.jsp) - Pension contributions and the lump-sum refund for departing foreign workers.
+- [Korea Exchange (KRX)](http://global.krx.co.kr/main/main.jsp) - Official KOSPI and KOSDAQ market operator: listings, indices, and trading rules.
+- [Financial Supervisory Service (FSS)](https://www.fss.or.kr/eng/main/main.do) - Financial consumer protection for banks, brokerages, insurers, and remittance firms. Complaint line 1332.
+
+Taxes, pension, and benefits:
+
 - [Korea Foreign Resident Tax Guide](https://seoulstart.com/guides/korea-foreign-resident-tax-guide) - Resident vs nonresident status, what you owe, and how it is taxed.
 - [Korea Year-End Tax Settlement](https://seoulstart.com/guides/korea-year-end-tax-settlement-guide) - The 연말정산 process and deductions foreign residents miss.
 - [Korea Pension Refund Guide](https://seoulstart.com/guides/korea-pension-refund-guide) - Who can reclaim pension contributions and how.
 - [Korea Benefits Checker](https://seoulstart.com/tools/benefits-checker) - Free tool that surfaces pension refunds, tax credits, and benefits you may qualify for, by visa, income, housing, and family.
-- [KEB Hana Bank](https://www.kebhana.com) - Major bank widely used by foreign residents for English app and desk support. Commercial.
-- [Wise](https://wise.com/kr/) - International transfers at mid-market rates. Commercial.
-- [Sentbe](https://www.sentbe.com) - Korea-licensed remittance app for sending money home. Commercial.
-- [GME Remit](https://www.gmeremit.com/) - Remittance app widely used by EPS and migrant workers. Commercial.
+
+Investing and credit:
+
+- [Personal Finance Accounts for Foreign Residents](https://seoulstart.com/guides/personal-finance-accounts-foreign-residents-korea) - Master eligibility guide: ISA, IRP, pension savings, Korean brokerage, and overseas stocks. Tax-resident status, not visa type, is the gate.
+- [Opening a Korean Brokerage Account](https://seoulstart.com/guides/korean-brokerage-account-foreigners) - Which brokerages require a branch visit, the 본인인증 identity gate, and what KOSPI and KOSDAQ trades cost in tax.
+- [Overseas Stocks from Korea](https://seoulstart.com/guides/overseas-stocks-korea-foreign-residents) - Trading US and other foreign markets through a Korean brokerage: tax treatment, reporting, and currency handling.
+- [ISA for Foreign Residents](https://seoulstart.com/guides/isa-foreign-residents-korea) - Eligibility, contribution limits, and the tax advantages of the Individual Savings Account.
+- [IRP and Pension Savings for Foreign Residents](https://seoulstart.com/guides/irp-pension-savings-foreign-residents-korea) - How retirement-pension accounts work, who can open one, and the deduction at year-end settlement.
+- [Building Korean Credit](https://seoulstart.com/guides/korea-credit-building-guide) - How KCB and NICE scores work for foreigners, why home-country credit is ignored, and the steps that actually move your score.
+
+Banking and remittance (all commercial):
+
+- [KEB Hana Bank](https://www.kebhana.com) - Major bank widely used by foreign residents for English app and desk support.
+- [Wise](https://wise.com/kr/) - International transfers at mid-market rates.
+- [Sentbe](https://www.sentbe.com) - Korea-licensed remittance app for sending money home.
+- [GME Remit](https://www.gmeremit.com/) - Remittance app widely used by EPS and migrant workers.
 
 ## Healthcare and Insurance
 
