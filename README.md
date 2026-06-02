@@ -176,6 +176,7 @@ Everyday apps (all commercial):
 
 - [KakaoTalk](https://www.kakaocorp.com/page/service/service/kakaotalk?lang=en) - The default messaging app for personal and business contact.
 - [Naver Map](https://map.naver.com) - Mapping and transit with the best Korea coverage.
+- [Kakao Map](https://map.kakao.com/) - Popular mapping app with strong local-business coverage, navigation, and public-transit information.
 - [Papago](https://papago.naver.com/) - AI translator tuned for Korean, with camera translation.
 - [Coupang](https://www.coupang.com/) - Dominant e-commerce with same and next-day delivery.
 - [Baemin (배달의민족)](https://www.baemin.com/) - The leading food-delivery app. Mostly Korean.
