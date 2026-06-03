@@ -181,6 +181,7 @@ Everyday apps (all commercial):
 - [Papago](https://papago.naver.com/) - AI translator tuned for Korean, with camera translation.
 - [Coupang](https://www.coupang.com/) - Dominant e-commerce with same and next-day delivery.
 - [Baemin (배달의민족)](https://www.baemin.com/) - The leading food-delivery app. Mostly Korean.
+- [Coupang Eats](https://www.coupangeats.com/) - Food-delivery app with English support and integration with the Coupang payment system.
 - [Karrot (당근마켓)](https://www.daangn.com/) - Hyperlocal secondhand marketplace and neighborhood board.
 - [Kakao T](https://www.kakaocorp.com/page/service/service/KakaoT?lang=en) - Taxi-hailing without speaking Korean.
 - [Toss](https://toss.im/en) - Fintech app for transfers and payments, with an English interface.
