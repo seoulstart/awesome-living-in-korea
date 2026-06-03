@@ -17,6 +17,7 @@ Also available in: [한국어](README.ko.md) · [Tiếng Việt](README.vi.md) �
 - [Healthcare and Insurance](#healthcare-and-insurance)
 - [Family Life](#family-life)
 - [Work](#work)
+- [Transportation](#transportation)
 - [Korean Language and KIIP](#korean-language-and-kiip)
 - [Culture and Society](#culture-and-society)
 - [Pets](#pets)
@@ -125,6 +126,18 @@ Banking and remittance (all commercial):
 - [Seoulstart Korea Jobs Board](https://seoulstart.com/jobs) - Live aggregator of Korea-based jobs hiring English speakers, refreshed daily.
 - [JobKorea](https://www.jobkorea.co.kr) - Largest job portal, with a foreign-recruitment service. Commercial.
 - [Saramin](https://www.saramin.co.kr) - Major job board with English listings. Commercial.
+
+## Transportation
+
+National rail:
+
+- [Korail](https://www.letskorail.com/) - Official booking site for KTX, ITX, Saemaeul, and Mugunghwa trains nationwide.
+- [SRT](https://etk.srail.kr/) - High-speed rail service operating from Suseo Station to major cities across Korea.
+
+Buses:
+
+- [Kobus](https://www.kobus.co.kr/) - Official express-bus reservation platform connecting major cities across Korea.
+- [Bustago](https://www.bustago.or.kr/) - Intercity-bus booking platform serving routes not covered by Kobus.
 
 ## Korean Language and KIIP
 
