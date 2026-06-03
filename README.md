@@ -17,6 +17,7 @@ Also available in: [한국어](README.ko.md) · [Tiếng Việt](README.vi.md) �
 - [Healthcare and Insurance](#healthcare-and-insurance)
 - [Family Life](#family-life)
 - [Work](#work)
+- [Transportation](#transportation)
 - [Korean Language and KIIP](#korean-language-and-kiip)
 - [Culture and Society](#culture-and-society)
 - [Pets](#pets)
@@ -105,8 +106,6 @@ Banking and remittance (all commercial):
 
 - [Danuri (다누리) / Live in Korea](https://www.liveinkorea.kr/portal/USA/main/main.do) - Multicultural-family portal and the 1577-1366 helpline in 13 languages.
 - [Ministry of Gender Equality and Family](https://www.mogef.go.kr/eng/pc/eng_pc_f006.do) - What the local Multicultural and Healthy Family Support Centers offer.
-
-
 - [Healthy Family Support Centers (Familynet)](https://www.familynet.or.kr/) - Neighborhood centers: Korean classes, parenting, and family counseling. Mostly Korean.
 - [Bokjiro: Child Allowance (English)](https://www.bokjiro.go.kr/nwel/html/world/en/WII00000496.html) - Official eligibility and how to apply, including foreign parents of Korean children.
 - [Seoul Multicultural Family Portal (Hanultari)](https://mcfamily.or.kr/en) - Seoul-specific support with a multilingual chatbot.
@@ -127,6 +126,18 @@ Banking and remittance (all commercial):
 - [Seoulstart Korea Jobs Board](https://seoulstart.com/jobs) - Live aggregator of Korea-based jobs hiring English speakers, refreshed daily.
 - [JobKorea](https://www.jobkorea.co.kr) - Largest job portal, with a foreign-recruitment service. Commercial.
 - [Saramin](https://www.saramin.co.kr) - Major job board with English listings. Commercial.
+
+## Transportation
+
+National rail:
+
+- [Korail](https://www.letskorail.com/) - Official booking site for KTX, ITX, Saemaeul, and Mugunghwa trains nationwide.
+- [SRT](https://etk.srail.kr/) - High-speed rail service operating from Suseo Station to major cities across Korea.
+
+Buses:
+
+- [Kobus](https://www.kobus.co.kr/) - Official express-bus reservation platform connecting major cities across Korea.
+- [Bustago](https://www.bustago.or.kr/) - Intercity-bus booking platform serving routes not covered by Kobus.
 
 ## Korean Language and KIIP
 
@@ -170,6 +181,7 @@ Banking and remittance (all commercial):
 Community forums:
 
 - [r/Living_in_Korea](https://www.reddit.com/r/Living_in_Korea/) - Resident-focused community for visas, housing, work, and daily life.
+- [/r/living_in_korea_now](https://www.reddit.com/r/living_in_korea_now/) - Smaller resident-focused community with fewer restrictions on local news, daily-life discussion, and current events.
 - [r/teachinginkorea](https://www.reddit.com/r/teachinginkorea/) - Community for English teachers on jobs, contracts, and schools.
 - [Every Expat in Korea (Facebook)](https://www.facebook.com/groups/everyexpatinkorea/) - Large general-purpose question-and-answer group.
 - [Korea4Expats](https://www.korea4expats.com/) - Independent reference library on living and working in Korea.
@@ -178,9 +190,11 @@ Everyday apps (all commercial):
 
 - [KakaoTalk](https://www.kakaocorp.com/page/service/service/kakaotalk?lang=en) - The default messaging app for personal and business contact.
 - [Naver Map](https://map.naver.com) - Mapping and transit with the best Korea coverage.
+- [Kakao Map](https://map.kakao.com/) - Popular mapping app with strong local-business coverage, navigation, and public-transit information.
 - [Papago](https://papago.naver.com/) - AI translator tuned for Korean, with camera translation.
 - [Coupang](https://www.coupang.com/) - Dominant e-commerce with same and next-day delivery.
 - [Baemin (배달의민족)](https://www.baemin.com/) - The leading food-delivery app. Mostly Korean.
+- [Coupang Eats](https://www.coupangeats.com/) - Food-delivery app with English support and integration with the Coupang payment system.
 - [Karrot (당근마켓)](https://www.daangn.com/) - Hyperlocal secondhand marketplace and neighborhood board.
 - [Kakao T](https://www.kakaocorp.com/page/service/service/KakaoT?lang=en) - Taxi-hailing without speaking Korean.
 - [Toss](https://toss.im/en) - Fintech app for transfers and payments, with an English interface.
@@ -194,7 +208,6 @@ Helplines:
 ## Other Government Portals
 
 The portals below are the meta-references and cross-cutting services. Topic-specific government portals (HiKorea, NHIS, NTS, EPS, and the rest) live in their own sections above.
-
 
 - [Government 24 (gov.kr)](https://www.gov.kr/portal/main/en) - Master portal for about 12,000 public services. Many certificates issue in English.
 - [Korea Legal Aid Corporation (KLAC)](https://www.klac.or.kr) - Free legal consultation for residents under an income threshold. Hotline 132.
