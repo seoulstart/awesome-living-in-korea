@@ -20,6 +20,7 @@ Also available in: [한국어](README.ko.md) · [Tiếng Việt](README.vi.md) �
 - [Transportation](#transportation)
 - [Korean Language and KIIP](#korean-language-and-kiip)
 - [Culture and Society](#culture-and-society)
+- [Food and Groceries](#food-and-groceries)
 - [Pets](#pets)
 - [Communities and Everyday Apps](#communities-and-everyday-apps)
 - [Other Government Portals](#other-government-portals)
@@ -32,6 +33,7 @@ Also available in: [한국어](README.ko.md) · [Tiếng Việt](README.vi.md) �
 - [Government 24 (정부24)](https://www.gov.kr/portal/foreigner/en) - National e-government portal; issue civil and residence certificates in English.
 - [1345 Immigration Contact Center](https://www.immigration.go.kr/immigration_eng/1862/subview.do) - Phone counseling on visas, ARC, and residence in about 20 languages. Dial 1345 in Korea.
 - [Seoul Global Center](https://global.seoul.go.kr/web/main.do?lang=en) - Free multilingual settlement help and help desks in central Seoul.
+- [Seoulstart Directory](https://seoulstart.com/directory) - Curated, verified directories of English-speaking services: doctors, lawyers, language schools, vets, halal food, and government support centers.
 - [Moving to Korea Checklist](https://seoulstart.com/guides/moving-to-korea-checklist) - What to bring, what to buy here, what to set up in your first month.
 - [ARC Registration Guide](https://seoulstart.com/guides/arc-registration-guide) - The 90-day deadline, documents, and walkthrough at an immigration office.
 - [How to Open a Korean Bank Account](https://seoulstart.com/guides/how-to-open-a-korean-bank-account) - What ARC, address, and phone you need first.
@@ -100,7 +102,10 @@ Banking and remittance (all commercial):
 - [Korea Emergency Room Guide](https://seoulstart.com/guides/korea-emergency-room-guide) - What to do, what to bring, and what it costs.
 - [Severance International Health Care Center](https://sev.severance.healthcare/sev-en/ihc/overview.do) - English-language clinic, including visa medical exams.
 - [Asan Medical Center International Clinic](https://eng.amc.seoul.kr/gb/lang/patients/contents/ourService.do) - One-stop foreigner clinic with interpretation.
+- [National Center for Mental Health](https://www.ncmh.go.kr/) - Korea's national psychiatric hospital and mental-health information hub.
 - [Find A Helpline (Korea)](https://findahelpline.com/countries/kr) - Maintained directory of crisis and mental-health lines, with language notes.
+- [Seoulstart English-Speaking Doctors Directory](https://seoulstart.com/directory/healthcare) - Verified hospitals, clinics, dentists, and 24/7 hotlines with confirmed English service.
+- [Seoulstart Mental Health Directory](https://seoulstart.com/directory/mental-health) - English-speaking therapists and psychiatrists, free counseling, and multilingual crisis lines.
 
 ## Family Life
 
@@ -120,12 +125,15 @@ Banking and remittance (all commercial):
 - [Ministry of Employment and Labor](https://www.moel.go.kr/english/) - Labor-rights site. The 1350 hotline handles unpaid wages and contract violations.
 - [Korea Support Center for Foreign Workers](https://www.gov.kr/portal/foreigner/en/m020402) - Directory of in-person worker support centers with interpretation.
 - [Migrant Workers Help Line (1644-0655)](https://www.migrantworkersrights.net/en/resources/migrant-workers-help-line) - Worker-rights counseling in 14 languages.
+- [Village Lawyers for Foreigners (1345)](https://www.immigration.go.kr/immigration_eng/1858/subview.do) - Free three-way calls connecting any foreigner, including the undocumented, to a licensed Korean attorney.
+- [Korea Family Welfare Legal Counseling Center](https://www.lawhome.or.kr/en) - Free family-law counseling, with an English session every Monday evening.
 - [Best Job Sites in Korea for Foreign Residents](https://seoulstart.com/guides/best-job-sites-korea) - Where foreigners actually find work, by visa and field.
 - [E-9 Worker Rights](https://seoulstart.com/guides/e9-worker-rights) - Contracts, workplace changes, and what the law protects.
 - [Hagwon Contract Red Flags](https://seoulstart.com/guides/hagwon-contract-red-flags) - Clauses to check before signing a teaching contract.
 - [Seoulstart Korea Jobs Board](https://seoulstart.com/jobs) - Live aggregator of Korea-based jobs hiring English speakers, refreshed daily.
 - [JobKorea](https://www.jobkorea.co.kr) - Largest job portal, with a foreign-recruitment service. Commercial.
 - [Saramin](https://www.saramin.co.kr) - Major job board with English listings. Commercial.
+- [Seoulstart Lawyers and Legal Directory](https://seoulstart.com/directory/legal) - English-speaking lawyers and free legal aid for immigration, labor, family, and criminal matters, each with a confirmed Korean-licensed attorney.
 
 ## Transportation
 
@@ -147,6 +155,7 @@ Buses:
 - [krdict (Korean Learners' Dictionary)](https://krdict.korean.go.kr/eng/mainAction) - Official learner's dictionary, bilingual into 11 languages.
 - [Seoulstart TOPIK Hub](https://seoulstart.com/topik) - Test structure, levels, registration, and visa points.
 - [Seoulstart KIIP Hub](https://seoulstart.com/kiip) - Stage-by-stage guide to the integration program.
+- [Seoulstart Korean Language Schools Directory](https://seoulstart.com/directory/language-schools) - University 어학당 and private schools compared on formats, cost per term, D-4 visa support, and TOPIK prep.
 - [Korean Speech Levels](https://seoulstart.com/guides/korean-speech-levels) - Formal, polite, and casual speech, and when to use each.
 - [Talk To Me In Korean](https://talktomeinkorean.com) - Widely used self-study curriculum and a free podcast. Free and paid.
 - [How To Study Korean](https://www.howtostudykorean.com) - Free, deep grammar-focused lessons.
@@ -165,6 +174,12 @@ Buses:
 - [r/korea](https://www.reddit.com/r/korea/) - The largest English-language Korea community.
 - [Culture of South Korea (Wikipedia)](https://en.wikipedia.org/wiki/Culture_of_South_Korea) - Sourced encyclopedic overview that links to primary references.
 
+## Food and Groceries
+
+- [Korea Muslim Federation](https://www.koreaislam.org/en/local-muslim-info/) - The official mosque directory and the body that issues halal certification in Korea.
+- [Seoulstart Halal and Muslim-Friendly Directory](https://seoulstart.com/directory/halal) - KMF-certified restaurants, halal grocery marts, mosques, and prayer rooms by city, for residents.
+- [Seoulstart Foreign Grocery Directory](https://seoulstart.com/directory/grocery) - Where to buy home-country food, grouped by region: South Asian, Southeast Asian, Russian and Central Asian, Western, Japanese, and more.
+
 ## Pets
 
 - [Animal and Plant Quarantine Agency (APQA)](https://www.qia.go.kr/english/html/Animal_livestock/02AnimalLivestock_007-8.jsp) - Official dog and cat import rules: microchip, rabies, and titer test.
@@ -175,6 +190,7 @@ Buses:
 - [Korea Animal Rights Advocates (KARA)](https://www.ekara.org/support/english) - Animal-welfare NGO with an English-accessible adoption process.
 - [Korean K9 Rescue](https://www.koreank9rescue.org/) - Bilingual no-kill rescue: adoption, fostering, and pet relocation.
 - [South of Seoul: Choosing a Vet](https://blog.southofseoul.net/choosing-a-veterinarian/) - Non-commercial, community guidance on finding and talking to Korean vets.
+- [Seoulstart English-Speaking Vets Directory](https://seoulstart.com/directory/vets) - English-friendly animal hospitals, 24/7 emergency care, and clinics that handle pet-export paperwork.
 
 ## Communities and Everyday Apps
 
@@ -211,6 +227,7 @@ The portals below are the meta-references and cross-cutting services. Topic-spec
 
 - [Government 24 (gov.kr)](https://www.gov.kr/portal/main/en) - Master portal for about 12,000 public services. Many certificates issue in English.
 - [Korea Legal Aid Corporation (KLAC)](https://www.klac.or.kr) - Free legal consultation for residents under an income threshold. Hotline 132.
+- [Busan Global City Foundation](https://www.busan.go.kr/eng/forecenter01) - Busan's main multilingual settlement-support center and call line for the southeast region.
 - [Korea.net Website Directory](https://www.korea.net/Resources/Website-Directory) - Official curated index of government and public-service sites.
 
 ## Multilingual Editions
