@@ -4,7 +4,7 @@
 
 Curated list na ina-update ng [Seoulstart](https://seoulstart.com).
 
-> **Note**: Available pa rin ang Filipino README na ito bilang GitHub quick-reference list. Naka-pause muna ang Filipino website edition ng Seoulstart, kaya ang lumang `seoulstart.com/fil` links ay ire-redirect sa English site.
+> **Note**: Filipino README ito para sa GitHub quick-reference list. Para sa full Seoulstart guide library, gamitin ang English site o ang Korean, Vietnamese, Russian, at Chinese editions.
 
 ## Importanteng Government Portals
 

@@ -237,7 +237,7 @@ The portals below are the meta-references and cross-cutting services. Topic-spec
 - [Seoulstart in Russian (Русский)](https://seoulstart.com/ru)
 - [Seoulstart in Chinese (中文)](https://seoulstart.com/zh)
 
-Filipino remains available as a GitHub README: [README.fil.md](README.fil.md). The Seoulstart Filipino website edition is currently paused, and old `/fil` links redirect to the English site.
+Filipino is available as a GitHub README: [README.fil.md](README.fil.md). For Seoulstart's full guide library, use the English site or the Korean, Vietnamese, Russian, and Chinese editions.
 
 ## Leaving Korea
 
