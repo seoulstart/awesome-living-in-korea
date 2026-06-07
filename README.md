@@ -234,9 +234,10 @@ The portals below are the meta-references and cross-cutting services. Topic-spec
 
 - [Seoulstart in Korean (한국어)](https://seoulstart.com/ko)
 - [Seoulstart in Vietnamese (Tiếng Việt)](https://seoulstart.com/vi)
-- [Seoulstart in Filipino](https://seoulstart.com/fil)
 - [Seoulstart in Russian (Русский)](https://seoulstart.com/ru)
 - [Seoulstart in Chinese (中文)](https://seoulstart.com/zh)
+
+Filipino remains available as a GitHub README: [README.fil.md](README.fil.md). The Seoulstart Filipino website edition is currently paused, and old `/fil` links redirect to the English site.
 
 ## Leaving Korea
 

@@ -1,10 +1,10 @@
 # Mga Praktikal na Resources para sa mga Pilipino sa Korea
 
-> Government portals, mapagkakatiwalaang guides, calculators, at directories para sa mga 3 milyong foreign residents na nakatira sa Korea. Visa, housing, insurance, taxes - yung mga systems na walang kasamang instructions.
+> Government portals, mapagkakatiwalaang guides, calculators, at directories para sa mga foreign resident na nakatira sa Korea. Visa, housing, insurance, taxes, at araw-araw na systems na madalas walang kasamang malinaw na instructions.
 
-Curated list na ina-update ng [Seoulstart](https://seoulstart.com/fil).
+Curated list na ina-update ng [Seoulstart](https://seoulstart.com).
 
-> **Note**: Ang Filipino version na ito ay summary muna ng English README. Kasalukuyang isinasagawa ang full translation. Habang naghihintay, available na sa [seoulstart.com/fil](https://seoulstart.com/fil) ang Seoulstart Filipino guides.
+> **Note**: Available pa rin ang Filipino README na ito bilang GitHub quick-reference list. Naka-pause muna ang Filipino website edition ng Seoulstart, kaya ang lumang `seoulstart.com/fil` links ay ire-redirect sa English site.
 
 ## Importanteng Government Portals
 
@@ -22,11 +22,11 @@ Naka-organize by topic ang full curated list sa [English README](README.md):
 
 - First 90 Days / Visa / Housing / Money, Investing, at Taxes / Healthcare / Family / Work / Korean Language at KIIP / Culture / Pets / Communities at Everyday Apps / Leaving Korea
 
-Pwede mong basahin ang mga guides na ito sa Filipino sa [seoulstart.com/fil](https://seoulstart.com/fil). Lalo na helpful para sa EPS workers (E-9), F-6 marriage visa holders, at students.
+Para sa full Seoulstart guide library, gamitin muna ang [English site](https://seoulstart.com) o ang live editions sa Korean, Vietnamese, Russian, at Chinese.
 
 ## Contributing
 
-Yung paraan ng pag-add ng resources ay nasa [CONTRIBUTING.md](CONTRIBUTING.md). Welcome ang Filipino resources.
+Yung paraan ng pag-add ng resources ay nasa [CONTRIBUTING.md](CONTRIBUTING.md). Welcome pa rin ang Filipino resources para sa GitHub list na ito.
 
 ## Lisensya
 
