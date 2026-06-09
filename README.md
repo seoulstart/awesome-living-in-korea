@@ -6,7 +6,7 @@ A curated list of government portals, community hubs, everyday apps, and guides 
 
 **Who this list serves:** foreigners moving to Korea, expats living in Korea, foreign residents, international students on D-2 visas, foreign workers on E-7 and E-9 visas, English teachers on E-2 visas, multicultural families, F-4 Korean-heritage diaspora, F-6 marriage visa holders, and digital nomads exploring Korea.
 
-Also available in: [한국어](README.ko.md) · [Tiếng Việt](README.vi.md) · [Filipino](README.fil.md) · [Русский](README.ru.md) · [中文](README.zh.md)
+Also available in: [한국어](README.ko.md) · [日本語](README.ja.md) · [简体中文](README.zh.md) · [繁體中文](README.zh-Hant.md) · [हिन्दी](README.hi.md) · [Español](README.es.md) · [العربية](README.ar.md) · [Français](README.fr.md) · [বাংলা](README.bn.md) · [Português](README.pt.md) · [Bahasa Indonesia](README.id.md) · [Bahasa Melayu](README.ms.md) · [Filipino](README.fil.md) · [Tiếng Việt](README.vi.md) · [ไทย](README.th.md) · [မြန်မာဘာသာ](README.my.md) · [Монгол](README.mn.md) · [Deutsch](README.de.md) · [Italiano](README.it.md) · [Oʻzbekcha](README.uz.md) · [Русский](README.ru.md)
 
 ## Contents
 
@@ -237,7 +237,7 @@ The portals below are the meta-references and cross-cutting services. Topic-spec
 - [Seoulstart in Russian (Русский)](https://seoulstart.com/ru)
 - [Seoulstart in Chinese (中文)](https://seoulstart.com/zh)
 
-Filipino is available as a GitHub README: [README.fil.md](README.fil.md). For Seoulstart's full guide library, use the English site or the Korean, Vietnamese, Russian, and Chinese editions.
+For Seoulstart's full guide library, use the English site or the Korean, Vietnamese, Russian, and Chinese editions. Summary versions of this list are available in more languages from the switcher at the top.
 
 ## Leaving Korea
 

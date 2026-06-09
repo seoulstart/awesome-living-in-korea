@@ -33,4 +33,4 @@
 
 ## 언어 선택
 
-[English](README.md) · 한국어 · [Tiếng Việt](README.vi.md) · [Filipino](README.fil.md) · [Русский](README.ru.md) · [中文](README.zh.md)
+[English](README.md) · 한국어 · [日本語](README.ja.md) · [简体中文](README.zh.md) · [繁體中文](README.zh-Hant.md) · [हिन्दी](README.hi.md) · [Español](README.es.md) · [العربية](README.ar.md) · [Français](README.fr.md) · [বাংলা](README.bn.md) · [Português](README.pt.md) · [Bahasa Indonesia](README.id.md) · [Bahasa Melayu](README.ms.md) · [Filipino](README.fil.md) · [Tiếng Việt](README.vi.md) · [ไทย](README.th.md) · [မြန်မာဘာသာ](README.my.md) · [Монгол](README.mn.md) · [Deutsch](README.de.md) · [Italiano](README.it.md) · [Oʻzbekcha](README.uz.md) · [Русский](README.ru.md)
