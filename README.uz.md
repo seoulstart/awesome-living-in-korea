@@ -2,9 +2,9 @@
 
 > Vizalar, uy-joy, tibbiy sug'urta, soliqlar, ish va kundalik qoidalar.
 
-Bu ro'yxat Koreyada yashovchi chet elliklar uchun [Seoulstart](https://seoulstart.com) tomonidan tuzilgan va yuritiladi. Rasmiy portallar va birlamchi manbalar oldinda.
+Bu ro'yxat Koreyada yashovchi chet elliklar uchun [Seoulstart](https://seoulstart.com/?utm_source=github&utm_medium=referral&utm_campaign=awesome-living-in-korea&utm_content=uz) tomonidan tuzilgan va yuritiladi. Rasmiy portallar va birlamchi manbalar oldinda.
 
-> **Eslatma**: Bu o'zbekcha versiya inglizcha README'ning qisqacha bayoni. Seoulstart'ning to'liq kontenti inglizcha saytda, [seoulstart.com](https://seoulstart.com).
+> **Eslatma**: Bu o'zbekcha versiya inglizcha README'ning qisqacha bayoni. Seoulstart'ning to'liq kontenti inglizcha saytda, [seoulstart.com](https://seoulstart.com/?utm_source=github&utm_medium=referral&utm_campaign=awesome-living-in-korea&utm_content=uz).
 
 ## Asosiy rasmiy portallar
 

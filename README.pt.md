@@ -2,9 +2,9 @@
 
 > Vistos, moradia, seguro de saúde, impostos, trabalho e regras do dia a dia.
 
-Lista curada e mantida pela [Seoulstart](https://seoulstart.com) para estrangeiros que vivem na Coreia do Sul. Os portais oficiais e as fontes primárias vêm primeiro.
+Lista curada e mantida pela [Seoulstart](https://seoulstart.com/?utm_source=github&utm_medium=referral&utm_campaign=awesome-living-in-korea&utm_content=pt) para estrangeiros que vivem na Coreia do Sul. Os portais oficiais e as fontes primárias vêm primeiro.
 
-> **Nota**: Esta versão em português é um resumo do README em inglês. Todo o conteúdo da Seoulstart está no site em inglês, [seoulstart.com](https://seoulstart.com).
+> **Nota**: Esta versão em português é um resumo do README em inglês. Todo o conteúdo da Seoulstart está no site em inglês, [seoulstart.com](https://seoulstart.com/?utm_source=github&utm_medium=referral&utm_campaign=awesome-living-in-korea&utm_content=pt).
 
 ## Principais portais oficiais
 

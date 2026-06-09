@@ -2,9 +2,9 @@
 
 > 为生活在韩国的约 300 万外国居民整理的政府门户、可信赖的指南、计算器和目录。签证、住房、保险、税务，那些没有说明书的系统。
 
-由 [Seoulstart](https://seoulstart.com/zh) 维护的精选列表。
+由 [Seoulstart](https://seoulstart.com/zh?utm_source=github&utm_medium=referral&utm_campaign=awesome-living-in-korea&utm_content=zh) 维护的精选列表。
 
-> **说明**：本中文版目前是英文 README 的摘要版。完整翻译正在进行中。在此期间，Seoulstart 的中文指南已经可以在 [seoulstart.com/zh](https://seoulstart.com/zh) 阅读。
+> **说明**：本中文版目前是英文 README 的摘要版。完整翻译正在进行中。在此期间，Seoulstart 的中文指南已经可以在 [seoulstart.com/zh](https://seoulstart.com/zh?utm_source=github&utm_medium=referral&utm_campaign=awesome-living-in-korea&utm_content=zh) 阅读。
 
 ## 重要政府门户
 
@@ -22,7 +22,7 @@
 
 - 抵韩 90 天 / 签证 / 住房 / 钱、投资和税 / 医疗保险 / 家庭 / 工作 / 韩语学习与 KIIP / 文化 / 宠物 / 社区和日常应用 / 离开韩国
 
-这些指南可以在 [seoulstart.com/zh](https://seoulstart.com/zh) 用中文阅读。对持有 E-7 工作签证、F-4 海外同胞签证、F-6 婚姻签证和 D-2 留学签证的人特别有用。
+这些指南可以在 [seoulstart.com/zh](https://seoulstart.com/zh?utm_source=github&utm_medium=referral&utm_campaign=awesome-living-in-korea&utm_content=zh) 用中文阅读。对持有 E-7 工作签证、F-4 海外同胞签证、F-6 婚姻签证和 D-2 留学签证的人特别有用。
 
 ## 如何贡献
 

@@ -2,9 +2,9 @@
 
 > 簽證、住房、健康保險、稅金、工作和生活規則。
 
-這份清單由 [Seoulstart](https://seoulstart.com) 為在韓國生活的外國人整理與維護。官方入口網站和第一手來源排在前面。
+這份清單由 [Seoulstart](https://seoulstart.com/?utm_source=github&utm_medium=referral&utm_campaign=awesome-living-in-korea&utm_content=zh-hant) 為在韓國生活的外國人整理與維護。官方入口網站和第一手來源排在前面。
 
-> **說明**: 這份繁體中文版是英文 README 的摘要。Seoulstart 的完整內容在英文網站 [seoulstart.com](https://seoulstart.com) 上。
+> **說明**: 這份繁體中文版是英文 README 的摘要。Seoulstart 的完整內容在英文網站 [seoulstart.com](https://seoulstart.com/?utm_source=github&utm_medium=referral&utm_campaign=awesome-living-in-korea&utm_content=zh-hant) 上。
 
 ## 主要官方入口網站
 

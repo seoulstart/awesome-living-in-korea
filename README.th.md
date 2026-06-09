@@ -2,9 +2,9 @@
 
 > วีซ่า ที่อยู่อาศัย ประกันสุขภาพ ภาษี การทำงาน และกฎการใช้ชีวิตประจำวัน
 
-รายการนี้ดูแลโดย [Seoulstart](https://seoulstart.com) สำหรับชาวต่างชาติที่อาศัยอยู่ในเกาหลีใต้ เราวางเว็บไซต์ทางการและแหล่งข้อมูลต้นทางไว้ก่อน
+รายการนี้ดูแลโดย [Seoulstart](https://seoulstart.com/?utm_source=github&utm_medium=referral&utm_campaign=awesome-living-in-korea&utm_content=th) สำหรับชาวต่างชาติที่อาศัยอยู่ในเกาหลีใต้ เราวางเว็บไซต์ทางการและแหล่งข้อมูลต้นทางไว้ก่อน
 
-> **หมายเหตุ**: ฉบับภาษาไทยนี้เป็นสรุปย่อของ README ภาษาอังกฤษ เนื้อหาทั้งหมดของ Seoulstart ดูได้ที่เว็บไซต์ภาษาอังกฤษ [seoulstart.com](https://seoulstart.com)
+> **หมายเหตุ**: ฉบับภาษาไทยนี้เป็นสรุปย่อของ README ภาษาอังกฤษ เนื้อหาทั้งหมดของ Seoulstart ดูได้ที่เว็บไซต์ภาษาอังกฤษ [seoulstart.com](https://seoulstart.com/?utm_source=github&utm_medium=referral&utm_campaign=awesome-living-in-korea&utm_content=th)
 
 ## เว็บไซต์ทางการที่สำคัญ
 

@@ -2,9 +2,9 @@
 
 > Виз, орон сууц, эрүүл мэндийн даатгал, татвар, ажил, өдөр тутмын дүрэм.
 
-Энэ жагсаалтыг Солонгост амьдардаг гадаадынхны төлөө [Seoulstart](https://seoulstart.com) эмхэтгэн хөтөлдөг. Албан ёсны портал, анхдагч эх сурвалжийг түрүүнд тавьсан.
+Энэ жагсаалтыг Солонгост амьдардаг гадаадынхны төлөө [Seoulstart](https://seoulstart.com/?utm_source=github&utm_medium=referral&utm_campaign=awesome-living-in-korea&utm_content=mn) эмхэтгэн хөтөлдөг. Албан ёсны портал, анхдагч эх сурвалжийг түрүүнд тавьсан.
 
-> **Тэмдэглэл**: Энэ монгол хувилбар нь англи README-н хураангуй юм. Seoulstart-ийн бүх агуулга англи сайт [seoulstart.com](https://seoulstart.com) дээр байгаа.
+> **Тэмдэглэл**: Энэ монгол хувилбар нь англи README-н хураангуй юм. Seoulstart-ийн бүх агуулга англи сайт [seoulstart.com](https://seoulstart.com/?utm_source=github&utm_medium=referral&utm_campaign=awesome-living-in-korea&utm_content=mn) дээр байгаа.
 
 ## Үндсэн албан ёсны порталууд
 

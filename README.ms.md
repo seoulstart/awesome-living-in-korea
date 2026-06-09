@@ -2,9 +2,9 @@
 
 > Visa, tempat tinggal, insurans kesihatan, cukai, kerja dan peraturan harian.
 
-Senarai pilihan yang diselenggara oleh [Seoulstart](https://seoulstart.com) untuk warga asing yang tinggal di Korea Selatan. Portal rasmi dan sumber utama didahulukan.
+Senarai pilihan yang diselenggara oleh [Seoulstart](https://seoulstart.com/?utm_source=github&utm_medium=referral&utm_campaign=awesome-living-in-korea&utm_content=ms) untuk warga asing yang tinggal di Korea Selatan. Portal rasmi dan sumber utama didahulukan.
 
-> **Nota**: Versi Bahasa Melayu ini ialah ringkasan README bahasa Inggeris. Semua kandungan Seoulstart ada di laman bahasa Inggeris, [seoulstart.com](https://seoulstart.com).
+> **Nota**: Versi Bahasa Melayu ini ialah ringkasan README bahasa Inggeris. Semua kandungan Seoulstart ada di laman bahasa Inggeris, [seoulstart.com](https://seoulstart.com/?utm_source=github&utm_medium=referral&utm_campaign=awesome-living-in-korea&utm_content=ms).
 
 ## Portal rasmi utama
 

@@ -2,9 +2,9 @@
 
 > التأشيرات، السكن، التأمين الصحي، الضرائب، العمل، وقواعد الحياة اليومية.
 
-قائمة مختارة تحت إشراف [Seoulstart](https://seoulstart.com) للأجانب المقيمين في كوريا الجنوبية. تأتي البوابات الرسمية والمصادر الأساسية أولاً.
+قائمة مختارة تحت إشراف [Seoulstart](https://seoulstart.com/?utm_source=github&utm_medium=referral&utm_campaign=awesome-living-in-korea&utm_content=ar) للأجانب المقيمين في كوريا الجنوبية. تأتي البوابات الرسمية والمصادر الأساسية أولاً.
 
-> **ملاحظة**: هذه النسخة العربية ملخّص لملف README بالإنجليزية. كل محتوى Seoulstart متوفّر على الموقع الإنجليزي، [seoulstart.com](https://seoulstart.com).
+> **ملاحظة**: هذه النسخة العربية ملخّص لملف README بالإنجليزية. كل محتوى Seoulstart متوفّر على الموقع الإنجليزي، [seoulstart.com](https://seoulstart.com/?utm_source=github&utm_medium=referral&utm_campaign=awesome-living-in-korea&utm_content=ar).
 
 ## أهم البوابات الرسمية
 

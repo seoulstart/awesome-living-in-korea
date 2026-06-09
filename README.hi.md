@@ -2,9 +2,9 @@
 
 > वीज़ा, आवास, स्वास्थ्य बीमा, कर, काम और रोज़मर्रा के नियम।
 
-यह सूची [Seoulstart](https://seoulstart.com) द्वारा कोरिया में रहने वाले विदेशियों के लिए तैयार और प्रबंधित की जाती है। आधिकारिक पोर्टल और प्राथमिक स्रोत पहले रखे गए हैं।
+यह सूची [Seoulstart](https://seoulstart.com/?utm_source=github&utm_medium=referral&utm_campaign=awesome-living-in-korea&utm_content=hi) द्वारा कोरिया में रहने वाले विदेशियों के लिए तैयार और प्रबंधित की जाती है। आधिकारिक पोर्टल और प्राथमिक स्रोत पहले रखे गए हैं।
 
-> **सूचना**: यह हिन्दी संस्करण अंग्रेज़ी README का सारांश है। Seoulstart की पूरी सामग्री अंग्रेज़ी साइट [seoulstart.com](https://seoulstart.com) पर उपलब्ध है।
+> **सूचना**: यह हिन्दी संस्करण अंग्रेज़ी README का सारांश है। Seoulstart की पूरी सामग्री अंग्रेज़ी साइट [seoulstart.com](https://seoulstart.com/?utm_source=github&utm_medium=referral&utm_campaign=awesome-living-in-korea&utm_content=hi) पर उपलब्ध है।
 
 ## मुख्य आधिकारिक पोर्टल
 

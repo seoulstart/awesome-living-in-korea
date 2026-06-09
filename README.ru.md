@@ -2,9 +2,9 @@
 
 > Государственные порталы, надёжные гиды, калькуляторы и каталоги для примерно 3 миллионов иностранных резидентов, живущих в Корее. Визы, жильё, страхование, налоги — те системы, к которым не прилагается инструкция.
 
-Кураторский список, который ведёт [Seoulstart](https://seoulstart.com/ru).
+Кураторский список, который ведёт [Seoulstart](https://seoulstart.com/ru?utm_source=github&utm_medium=referral&utm_campaign=awesome-living-in-korea&utm_content=ru).
 
-> **Примечание**: эта русская версия пока что краткое резюме английского README. Полный перевод в работе. Тем временем русскоязычные гиды Seoulstart уже доступны на [seoulstart.com/ru](https://seoulstart.com/ru).
+> **Примечание**: эта русская версия пока что краткое резюме английского README. Полный перевод в работе. Тем временем русскоязычные гиды Seoulstart уже доступны на [seoulstart.com/ru](https://seoulstart.com/ru?utm_source=github&utm_medium=referral&utm_campaign=awesome-living-in-korea&utm_content=ru).
 
 ## Ключевые государственные порталы
 
@@ -22,7 +22,7 @@
 
 - Первые 90 дней / Визы / Жильё / Деньги, инвестиции и налоги / Здравоохранение / Семья / Работа / Корейский язык и KIIP / Культура / Домашние животные / Сообщества и повседневные приложения / Отъезд из Кореи
 
-Эти гиды доступны на русском на [seoulstart.com/ru](https://seoulstart.com/ru). Особенно полезно для держателей рабочих виз (E-7, E-9), супругов корейских граждан (F-6), студентов (D-2).
+Эти гиды доступны на русском на [seoulstart.com/ru](https://seoulstart.com/ru?utm_source=github&utm_medium=referral&utm_campaign=awesome-living-in-korea&utm_content=ru). Особенно полезно для держателей рабочих виз (E-7, E-9), супругов корейских граждан (F-6), студентов (D-2).
 
 ## Как добавить ресурс
 

@@ -2,9 +2,9 @@
 
 > ビザ、住まい、健康保険、税金、仕事、暮らしのルールをまとめました。
 
-韓国に住む外国人のために [Seoulstart](https://seoulstart.com) が管理するキュレーションリストです。公式ポータルと一次情報を先頭に置いています。
+韓国に住む外国人のために [Seoulstart](https://seoulstart.com/?utm_source=github&utm_medium=referral&utm_campaign=awesome-living-in-korea&utm_content=ja) が管理するキュレーションリストです。公式ポータルと一次情報を先頭に置いています。
 
-> **メモ**: この日本語版は英語版READMEの要約です。Seoulstartの全ガイドは英語版サイト [seoulstart.com](https://seoulstart.com) でご覧いただけます。
+> **メモ**: この日本語版は英語版READMEの要約です。Seoulstartの全ガイドは英語版サイト [seoulstart.com](https://seoulstart.com/?utm_source=github&utm_medium=referral&utm_campaign=awesome-living-in-korea&utm_content=ja) でご覧いただけます。
 
 ## 主要な公式ポータル
 

@@ -2,9 +2,9 @@
 
 > Visa, Wohnen, Krankenversicherung, Steuern, Arbeit und Alltagsregeln.
 
-Kuratierte Liste, gepflegt von [Seoulstart](https://seoulstart.com) für Ausländer, die in Südkorea leben. Offizielle Portale und Primärquellen stehen vorn.
+Kuratierte Liste, gepflegt von [Seoulstart](https://seoulstart.com/?utm_source=github&utm_medium=referral&utm_campaign=awesome-living-in-korea&utm_content=de) für Ausländer, die in Südkorea leben. Offizielle Portale und Primärquellen stehen vorn.
 
-> **Hinweis**: Diese deutsche Version ist eine Zusammenfassung des englischen README. Alle Inhalte von Seoulstart gibt es auf der englischen Seite, [seoulstart.com](https://seoulstart.com).
+> **Hinweis**: Diese deutsche Version ist eine Zusammenfassung des englischen README. Alle Inhalte von Seoulstart gibt es auf der englischen Seite, [seoulstart.com](https://seoulstart.com/?utm_source=github&utm_medium=referral&utm_campaign=awesome-living-in-korea&utm_content=de).
 
 ## Wichtige offizielle Portale
 

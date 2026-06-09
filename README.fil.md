@@ -2,7 +2,7 @@
 
 > Government portals, mapagkakatiwalaang guides, calculators, at directories para sa mga foreign resident na nakatira sa Korea. Visa, housing, insurance, taxes, at araw-araw na systems na madalas walang kasamang malinaw na instructions.
 
-Curated list na ina-update ng [Seoulstart](https://seoulstart.com).
+Curated list na ina-update ng [Seoulstart](https://seoulstart.com/?utm_source=github&utm_medium=referral&utm_campaign=awesome-living-in-korea&utm_content=fil).
 
 > **Note**: Filipino README ito para sa GitHub quick-reference list. Para sa full Seoulstart guide library, gamitin ang English site o ang Korean, Vietnamese, Russian, at Chinese editions.
 
@@ -22,7 +22,7 @@ Naka-organize by topic ang full curated list sa [English README](README.md):
 
 - First 90 Days / Visa / Housing / Money, Investing, at Taxes / Healthcare / Family / Work / Korean Language at KIIP / Culture / Pets / Communities at Everyday Apps / Leaving Korea
 
-Para sa full Seoulstart guide library, gamitin muna ang [English site](https://seoulstart.com) o ang live editions sa Korean, Vietnamese, Russian, at Chinese.
+Para sa full Seoulstart guide library, gamitin muna ang [English site](https://seoulstart.com/?utm_source=github&utm_medium=referral&utm_campaign=awesome-living-in-korea&utm_content=fil) o ang live editions sa Korean, Vietnamese, Russian, at Chinese.
 
 ## Contributing
 

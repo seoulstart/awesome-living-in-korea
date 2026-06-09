@@ -2,9 +2,9 @@
 
 > ভিসা, বাসস্থান, স্বাস্থ্য বীমা, কর, কাজ ও দৈনন্দিন নিয়ম।
 
-এই তালিকাটি কোরিয়ায় বসবাসকারী বিদেশিদের জন্য [Seoulstart](https://seoulstart.com) তৈরি ও পরিচালনা করে। সরকারি পোর্টাল ও মূল উৎস আগে রাখা হয়েছে।
+এই তালিকাটি কোরিয়ায় বসবাসকারী বিদেশিদের জন্য [Seoulstart](https://seoulstart.com/?utm_source=github&utm_medium=referral&utm_campaign=awesome-living-in-korea&utm_content=bn) তৈরি ও পরিচালনা করে। সরকারি পোর্টাল ও মূল উৎস আগে রাখা হয়েছে।
 
-> **দ্রষ্টব্য**: এই বাংলা সংস্করণটি ইংরেজি README-এর সারসংক্ষেপ। Seoulstart-এর সম্পূর্ণ কনটেন্ট ইংরেজি সাইট [seoulstart.com](https://seoulstart.com)-এ আছে।
+> **দ্রষ্টব্য**: এই বাংলা সংস্করণটি ইংরেজি README-এর সারসংক্ষেপ। Seoulstart-এর সম্পূর্ণ কনটেন্ট ইংরেজি সাইট [seoulstart.com](https://seoulstart.com/?utm_source=github&utm_medium=referral&utm_campaign=awesome-living-in-korea&utm_content=bn)-এ আছে।
 
 ## প্রধান সরকারি পোর্টাল
 

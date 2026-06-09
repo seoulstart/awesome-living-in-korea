@@ -2,9 +2,9 @@
 
 > Visa, tempat tinggal, asuransi kesehatan, pajak, kerja, dan aturan sehari-hari.
 
-Daftar ini dikurasi dan dikelola oleh [Seoulstart](https://seoulstart.com) untuk warga asing yang tinggal di Korea Selatan. Portal resmi dan sumber utama diletakkan di depan.
+Daftar ini dikurasi dan dikelola oleh [Seoulstart](https://seoulstart.com/?utm_source=github&utm_medium=referral&utm_campaign=awesome-living-in-korea&utm_content=id) untuk warga asing yang tinggal di Korea Selatan. Portal resmi dan sumber utama diletakkan di depan.
 
-> **Catatan**: Versi Bahasa Indonesia ini adalah ringkasan dari README bahasa Inggris. Seluruh konten Seoulstart bisa kamu baca di situs berbahasa Inggris, [seoulstart.com](https://seoulstart.com).
+> **Catatan**: Versi Bahasa Indonesia ini adalah ringkasan dari README bahasa Inggris. Seluruh konten Seoulstart bisa kamu baca di situs berbahasa Inggris, [seoulstart.com](https://seoulstart.com/?utm_source=github&utm_medium=referral&utm_campaign=awesome-living-in-korea&utm_content=id).
 
 ## Portal resmi penting
 
