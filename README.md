@@ -243,3 +243,8 @@ For Seoulstart's full guide library, use the English site or the Korean, Vietnam
 
 - [Korea Customs Service](https://www.customs.go.kr/english/main.do) - Rules for shipping household goods out of Korea.
 - [Leaving Korea Guide](https://seoulstart.com/guides/leaving-korea-guide) - The order of operations: refunds, account closures, and ARC return.
+
+**Related Seoulstart lists:**
+
+- [Awesome Korea Travel](https://github.com/seoulstart/awesome-korea-travel#readme) - Visiting rather than moving: trip planning, transit, cities, and things to do.
+- [Awesome Build for Korea](https://github.com/seoulstart/awesome-build-for-korea#readme) - For companies and developers building a product for the Korean market.
