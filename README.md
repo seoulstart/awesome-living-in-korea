@@ -4,8 +4,6 @@
 
 A curated list of government portals, community hubs, everyday apps, and guides for the ~3 million foreign residents living in Korea. Maintained by [Seoulstart](https://seoulstart.com), a multilingual practical-guide site for foreign residents in Korea. Seoulstart's own guides are included where they add plain-language depth; they sit alongside official and community sources, never above them.
 
-**Who this list serves:** foreigners moving to Korea, expats living in Korea, foreign residents, international students on D-2 visas, foreign workers on E-7 and E-9 visas, English teachers on E-2 visas, multicultural families, F-4 Korean-heritage diaspora, F-6 marriage visa holders, and digital nomads exploring Korea.
-
 Also available in: [한국어](README.ko.md) · [日本語](README.ja.md) · [简体中文](README.zh.md) · [繁體中文](README.zh-Hant.md) · [हिन्दी](README.hi.md) · [Español](README.es.md) · [العربية](README.ar.md) · [Français](README.fr.md) · [বাংলা](README.bn.md) · [Português](README.pt.md) · [Bahasa Indonesia](README.id.md) · [Bahasa Melayu](README.ms.md) · [Filipino](README.fil.md) · [Tiếng Việt](README.vi.md) · [ไทย](README.th.md) · [မြန်မာဘာသာ](README.my.md) · [Монгол](README.mn.md) · [Deutsch](README.de.md) · [Italiano](README.it.md) · [Oʻzbekcha](README.uz.md) · [Русский](README.ru.md)
 
 ## Contents
@@ -34,9 +32,7 @@ Also available in: [한국어](README.ko.md) · [日本語](README.ja.md) · [�
 - [1345 Immigration Contact Center](https://www.immigration.go.kr/immigration_eng/1862/subview.do) - Phone counseling on visas, ARC, and residence in about 20 languages. Dial 1345 in Korea.
 - [Seoul Global Center](https://global.seoul.go.kr/web/main.do?lang=en) - Free multilingual settlement help and help desks in central Seoul.
 - [Seoulstart Directory](https://seoulstart.com/directory) - Curated, verified directories of English-speaking services: doctors, lawyers, language schools, vets, halal food, and government support centers.
-- [Moving to Korea Checklist](https://seoulstart.com/guides/moving-to-korea-checklist) - What to bring, what to buy here, what to set up in your first month.
 - [ARC Registration Guide](https://seoulstart.com/guides/arc-registration-guide) - The 90-day deadline, documents, and walkthrough at an immigration office.
-- [How to Open a Korean Bank Account](https://seoulstart.com/guides/how-to-open-a-korean-bank-account) - What ARC, address, and phone you need first.
 
 ## Visas
 
@@ -80,9 +76,6 @@ Investing and credit:
 
 - [Personal Finance Accounts for Foreign Residents](https://seoulstart.com/guides/personal-finance-accounts-foreign-residents-korea) - Master eligibility guide: ISA, IRP, pension savings, Korean brokerage, and overseas stocks. Tax-resident status, not visa type, is the gate.
 - [Opening a Korean Brokerage Account](https://seoulstart.com/guides/korean-brokerage-account-foreigners) - Which brokerages require a branch visit, the 본인인증 identity gate, and what KOSPI and KOSDAQ trades cost in tax.
-- [Overseas Stocks from Korea](https://seoulstart.com/guides/overseas-stocks-korea-foreign-residents) - Trading US and other foreign markets through a Korean brokerage: tax treatment, reporting, and currency handling.
-- [ISA for Foreign Residents](https://seoulstart.com/guides/isa-foreign-residents-korea) - Eligibility, contribution limits, and the tax advantages of the Individual Savings Account.
-- [IRP and Pension Savings for Foreign Residents](https://seoulstart.com/guides/irp-pension-savings-foreign-residents-korea) - How retirement-pension accounts work, who can open one, and the deduction at year-end settlement.
 - [Building Korean Credit](https://seoulstart.com/guides/korea-credit-building-guide) - How KCB and NICE scores work for foreigners, why home-country credit is ignored, and the steps that actually move your score.
 
 Banking and remittance (all commercial):
@@ -98,7 +91,6 @@ Banking and remittance (all commercial):
 - [National Emergency Medical Center (E-Gen)](https://www.e-gen.or.kr/english/main.do) - Real-time open-ER and pharmacy finder. The 1339 line gives guidance in English.
 - [HIRA](https://www.hira.or.kr/eng/main.do) - Official locator for hospitals and night or 24-hour pharmacies.
 - [NHIS Enrollment Guide](https://seoulstart.com/guides/nhis-enrollment-guide) - When enrollment kicks in, what you pay, and how to add dependents.
-- [Finding English-Speaking Doctors in Korea](https://seoulstart.com/guides/finding-english-speaking-doctors-korea) - How to find care you can communicate in.
 - [Korea Emergency Room Guide](https://seoulstart.com/guides/korea-emergency-room-guide) - What to do, what to bring, and what it costs.
 - [Severance International Health Care Center](https://sev.severance.healthcare/sev-en/ihc/overview.do) - English-language clinic, including visa medical exams.
 - [Asan Medical Center International Clinic](https://eng.amc.seoul.kr/gb/lang/patients/contents/ourService.do) - One-stop foreigner clinic with interpretation.
@@ -156,7 +148,6 @@ Buses:
 - [Seoulstart TOPIK Hub](https://seoulstart.com/topik) - Test structure, levels, registration, and visa points.
 - [Seoulstart KIIP Hub](https://seoulstart.com/kiip) - Stage-by-stage guide to the integration program.
 - [Seoulstart Korean Language Schools Directory](https://seoulstart.com/directory/language-schools) - University 어학당 and private schools compared on formats, cost per term, D-4 visa support, and TOPIK prep.
-- [Korean Speech Levels](https://seoulstart.com/guides/korean-speech-levels) - Formal, polite, and casual speech, and when to use each.
 - [Talk To Me In Korean](https://talktomeinkorean.com) - Widely used self-study curriculum and a free podcast. Free and paid.
 - [How To Study Korean](https://www.howtostudykorean.com) - Free, deep grammar-focused lessons.
 - [GO! Billy Korean](https://www.youtube.com/@GoBillyKorean) - Free full video curriculum from alphabet to conversation.
