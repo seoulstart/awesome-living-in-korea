@@ -68,7 +68,6 @@ Official sources:
 Taxes, pension, and benefits:
 
 - [Korea Foreign Resident Tax Guide](https://seoulstart.com/guides/korea-foreign-resident-tax-guide) - Resident vs nonresident status, what you owe, and how it is taxed.
-- [Korea Year-End Tax Settlement](https://seoulstart.com/guides/korea-year-end-tax-settlement-guide) - The 연말정산 process and deductions foreign residents miss.
 - [Korea Pension Refund Guide](https://seoulstart.com/guides/korea-pension-refund-guide) - Who can reclaim pension contributions and how.
 - [Korea Benefits Checker](https://seoulstart.com/tools/benefits-checker) - Free tool that surfaces pension refunds, tax credits, and benefits you may qualify for, by visa, income, housing, and family.
 
@@ -119,7 +118,6 @@ Banking and remittance (all commercial):
 - [Migrant Workers Help Line (1644-0655)](https://www.migrantworkersrights.net/en/resources/migrant-workers-help-line) - Worker-rights counseling in 14 languages.
 - [Village Lawyers for Foreigners (1345)](https://www.immigration.go.kr/immigration_eng/1858/subview.do) - Free three-way calls connecting any foreigner, including the undocumented, to a licensed Korean attorney.
 - [Korea Family Welfare Legal Counseling Center](https://www.lawhome.or.kr/en) - Free family-law counseling, with an English session every Monday evening.
-- [Best Job Sites in Korea for Foreign Residents](https://seoulstart.com/guides/best-job-sites-korea) - Where foreigners actually find work, by visa and field.
 - [E-9 Worker Rights](https://seoulstart.com/guides/e9-worker-rights) - Contracts, workplace changes, and what the law protects.
 - [Hagwon Contract Red Flags](https://seoulstart.com/guides/hagwon-contract-red-flags) - Clauses to check before signing a teaching contract.
 - [Seoulstart Korea Jobs Board](https://seoulstart.com/jobs) - Live aggregator of Korea-based jobs hiring English speakers, refreshed daily.
