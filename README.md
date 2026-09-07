@@ -30,9 +30,11 @@ Also available in: [한국어](README.ko.md) · [日本語](README.ja.md) · [�
 - [HiKorea](https://www.hikorea.go.kr/) - Ministry of Justice immigration portal: ARC, visa extensions, e-Form, and appointment booking. The official source.
 - [Government 24 (정부24)](https://www.gov.kr/portal/foreigner/en) - National e-government portal; issue civil and residence certificates in English.
 - [1345 Immigration Contact Center](https://www.immigration.go.kr/immigration_eng/1862/subview.do) - Phone counseling on visas, ARC, and residence in about 20 languages. Dial 1345 in Korea.
+- [Incheon International Airport](https://www.airport.kr/ap_en/index.do) - Official airport site: arrivals, immigration, transport into Seoul, and lost-and-found.
 - [Seoul Global Center](https://global.seoul.go.kr/web/main.do?lang=en) - Free multilingual settlement help and help desks in central Seoul.
 - [Seoulstart Directory](https://seoulstart.com/directory) - Curated, verified directories of English-speaking services: doctors, lawyers, language schools, vets, halal food, and government support centers.
 - [ARC Registration Guide](https://seoulstart.com/guides/arc-registration-guide) - The 90-day deadline, documents, and walkthrough at an immigration office.
+- [Korea Arrival Checklist](https://seoulstart.com/tools/arrival-checklist) - ARC, bank account, NHIS, utilities, and the rest of the first weeks, as a checklist.
 
 ## Visas
 
@@ -41,9 +43,11 @@ Also available in: [한국어](README.ko.md) · [日本語](README.ja.md) · [�
 - [HiKorea Visa Navigator](https://www.hikorea.go.kr/cvfact/cvfact1.pt) - Official browser of all 30-plus visa categories.
 - [K-ETA](https://www.k-eta.go.kr/) - Official electronic travel authorization for visa-waiver nationals. Many scam copycats exist; this is the real one.
 - [Ministry of Foreign Affairs](https://www.mofa.go.kr/eng/index.do) - Embassy and consular visa instructions for applying from outside Korea.
+- [Permanent Residency (Easy Law)](https://m.easylaw.go.kr/MOM/SubCsmOvRetrieve.laf?ccfNo=1&cciNo=1&cnpClsNo=1&csmSeq=2805&langCd=700101) - Government plain-language explainer of F-5 status, eligibility, and how permanent residency (영주권) can be lost.
 - [Seoulstart Visa Hub](https://seoulstart.com/visa) - Plain-language guides to every visa type, point systems, and conversions.
 - [E-7 Specialized Activities Visa](https://seoulstart.com/guides/e-7-m-visa-guide) - Occupation codes, salary floor, and employer requirements.
 - [F-2 Long-Term Residency](https://seoulstart.com/guides/f-2-visa-guide) - Point system and eligibility paths.
+- [F-5 Permanent Residency (영주권)](https://seoulstart.com/guides/f-5-visa-guide) - The common paths, income and KIIP gates, and how F-5 differs from citizenship.
 
 ## Housing
 
@@ -51,8 +55,7 @@ Also available in: [한국어](README.ko.md) · [日本語](README.ja.md) · [�
 - [Korea Land and Housing Corporation (LH)](https://www.lh.or.kr/eng/) - National public-housing provider and rental programs.
 - [Seoul Housing and Living Guide](https://english.seoul.go.kr/service/living/) - Seoul's English guide to renting and housing welfare.
 - [Easy Law (찾기 쉬운 생활법령)](https://www.easylaw.go.kr) - Government plain-language explanations of lease law and tenant rights. Mostly Korean.
-- [How Jeonse Works (전세)](https://seoulstart.com/guides/how-jeonse-works) - Deposit-only lease explained, risks, and when it makes sense.
-- [Wolse Explained (월세)](https://seoulstart.com/guides/wolse-explained) - Monthly rent, deposit math, and what landlords expect.
+- [Seoulstart Housing Hub](https://seoulstart.com/housing) - Jeonse, wolse, apartment types, lease documents, and getting the deposit back.
 - [How to Avoid Deposit Scams](https://seoulstart.com/guides/how-to-avoid-deposit-scams) - Checks to run before you hand over a deposit.
 
 ## Money, Banking, Investing, and Taxes
@@ -69,7 +72,7 @@ Taxes, pension, and benefits:
 
 - [Korea Foreign Resident Tax Guide](https://seoulstart.com/guides/korea-foreign-resident-tax-guide) - Resident vs nonresident status, what you owe, and how it is taxed.
 - [Korea Pension Refund Guide](https://seoulstart.com/guides/korea-pension-refund-guide) - Who can reclaim pension contributions and how.
-- [Korea Benefits Checker](https://seoulstart.com/tools/benefits-checker) - Free tool that surfaces pension refunds, tax credits, and benefits you may qualify for, by visa, income, housing, and family.
+- [Korea Benefits Hub](https://seoulstart.com/benefits) - Government programs for foreign residents, shortlisted by city, visa, and household.
 
 Investing and credit:
 
@@ -118,6 +121,7 @@ Banking and remittance (all commercial):
 - [Migrant Workers Help Line (1644-0655)](https://www.migrantworkersrights.net/en/resources/migrant-workers-help-line) - Worker-rights counseling in 14 languages.
 - [Village Lawyers for Foreigners (1345)](https://www.immigration.go.kr/immigration_eng/1858/subview.do) - Free three-way calls connecting any foreigner, including the undocumented, to a licensed Korean attorney.
 - [Korea Family Welfare Legal Counseling Center](https://www.lawhome.or.kr/en) - Free family-law counseling, with an English session every Monday evening.
+- [Korea Workers Compensation Service (COMWEL)](https://www.comwel.or.kr/eng/index.jsp) - Official industrial-accident insurance: workplace injury claims and medical care.
 - [E-9 Worker Rights](https://seoulstart.com/guides/e9-worker-rights) - Contracts, workplace changes, and what the law protects.
 - [Hagwon Contract Red Flags](https://seoulstart.com/guides/hagwon-contract-red-flags) - Clauses to check before signing a teaching contract.
 - [Seoulstart Korea Jobs Board](https://seoulstart.com/jobs) - Live aggregator of Korea-based jobs hiring English speakers, refreshed daily.
@@ -137,6 +141,11 @@ Buses:
 - [Kobus](https://www.kobus.co.kr/) - Official express-bus reservation platform connecting major cities across Korea.
 - [Bustago](https://www.bustago.or.kr/) - Intercity-bus booking platform serving routes not covered by Kobus.
 
+Airports and city transit:
+
+- [AREX](https://www.arex.or.kr/main.do) - Airport railroad between Incheon Airport, Gimpo Airport, and Seoul Station.
+- [Seoul Metro](https://www.seoulmetro.co.kr/en/) - Official Seoul subway maps, fares, and station information in English.
+
 ## Korean Language and KIIP
 
 - [King Sejong Institute (Online)](https://www.iksi.or.kr) - Free official Korean courses, usable from anywhere.
@@ -154,7 +163,8 @@ Buses:
 ## Culture and Society
 
 - [Korea.net](https://www.korea.net/) - Official culture, policy, and history explainers in 10 languages.
-- [Seoulstart Korea Decoded Hub](https://seoulstart.com/guides?pillar=culture) - Plain-language hub of guides on Korean culture, society, and everyday norms.
+- [Seoulstart Korea Decoded Hub](https://seoulstart.com/korea-decoded) - Plain-language hub of guides on Korean culture, society, and everyday norms.
+- [Seoulstart Korea Weekly](https://seoulstart.com/weekly) - Weekly briefing on Korea news, policy changes, and resident rule updates.
 - [Korean Age System](https://seoulstart.com/guides/korean-age-system) - How age works in Korea and what changed in 2023.
 - [Modern Korean History 101](https://seoulstart.com/guides/modern-korean-history-101) - The recent history behind the Korea you live in.
 - [The Korea Herald](https://www.koreaherald.com) - The largest English-language daily.
@@ -225,12 +235,14 @@ The portals below are the meta-references and cross-cutting services. Topic-spec
 - [Seoulstart in Vietnamese (Tiếng Việt)](https://seoulstart.com/vi)
 - [Seoulstart in Russian (Русский)](https://seoulstart.com/ru)
 - [Seoulstart in Chinese (中文)](https://seoulstart.com/zh)
+- [Seoulstart in Japanese (日本語)](https://seoulstart.com/ja)
 
-For Seoulstart's full guide library, use the English site or the Korean, Vietnamese, Russian, and Chinese editions. Summary versions of this list are available in more languages from the switcher at the top.
+For Seoulstart's full guide library, use the English site or the Korean, Vietnamese, Russian, Chinese, and Japanese editions. Summary versions of this list are available in more languages from the switcher at the top.
 
 ## Leaving Korea
 
 - [Korea Customs Service](https://www.customs.go.kr/english/main.do) - Rules for shipping household goods out of Korea.
+- [Korea Post](https://www.koreapost.go.kr/eng/index.do) - Official postal service: international shipping and parcel tracking.
 - [Leaving Korea Guide](https://seoulstart.com/guides/leaving-korea-guide) - The order of operations: refunds, account closures, and ARC return.
 
 **Related Seoulstart lists:**
