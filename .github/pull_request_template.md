@@ -15,7 +15,7 @@
 
 ## Checklist
 
-- [ ] Follows the format `- [Name](URL) — short, factual description.`
+- [ ] Follows the format `- [Name](URL) - short, factual description.`
 - [ ] Description is factual, not promotional.
 - [ ] No em dashes (use comma, colon, or new sentence).
 - [ ] "Foreign resident" not "expat" in any description text.

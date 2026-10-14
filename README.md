@@ -13,6 +13,7 @@ Also available in: [한국어](README.ko.md) · [日本語](README.ja.md) · [�
 - [Housing](#housing)
 - [Money, Banking, Investing, and Taxes](#money-banking-investing-and-taxes)
 - [Healthcare and Insurance](#healthcare-and-insurance)
+- [Emergencies and Safety](#emergencies-and-safety)
 - [Family Life](#family-life)
 - [Work](#work)
 - [Transportation](#transportation)
@@ -31,6 +32,7 @@ Also available in: [한국어](README.ko.md) · [日本語](README.ja.md) · [�
 - [Government 24 (정부24)](https://www.gov.kr/portal/foreigner/en) - National e-government portal; issue civil and residence certificates in English.
 - [1345 Immigration Contact Center](https://www.immigration.go.kr/immigration_eng/1862/subview.do) - Phone counseling on visas, ARC, and residence in about 20 languages. Dial 1345 in Korea.
 - [Incheon International Airport](https://www.airport.kr/ap_en/index.do) - Official airport site: arrivals, immigration, transport into Seoul, and lost-and-found.
+- [Road Name Address Search (도로명주소)](https://www.juso.go.kr/openEngPage.do) - Official Ministry of the Interior and Safety tool that converts a Korean address to its English form and finds the postal code.
 - [Seoul Global Center](https://global.seoul.go.kr/web/main.do?lang=en) - Free multilingual settlement help and help desks in central Seoul.
 - [Seoulstart Directory](https://seoulstart.com/directory) - Curated, verified directories of English-speaking services: doctors, lawyers, language schools, vets, halal food, and government support centers.
 - [ARC Registration Guide](https://seoulstart.com/guides/arc-registration-guide) - The 90-day deadline, documents, and walkthrough at an immigration office.
@@ -54,6 +56,8 @@ Also available in: [한국어](README.ko.md) · [日本語](README.ja.md) · [�
 - [Korea Housing and Urban Guarantee Corporation (HUG)](https://www.khug.or.kr/hug/web/en/02/en02000001.jsp) - The jeonse deposit-return guarantee (전세보증금반환보증), the main protection against losing a deposit.
 - [Korea Land and Housing Corporation (LH)](https://www.lh.or.kr/eng/) - National public-housing provider and rental programs.
 - [Seoul Housing and Living Guide](https://english.seoul.go.kr/service/living/) - Seoul's English guide to renting and housing welfare.
+- [Internet Registry Office (인터넷등기소)](https://www.iros.go.kr/) - Supreme Court registry where you view or print a property's title record (등기사항증명서) to check ownership and mortgages before paying a deposit. Mostly Korean.
+- [MOLIT Real Transaction Price System (실거래가 공개시스템)](https://rt.molit.go.kr/) - Ministry of Land, Infrastructure and Transport records of actual sale, jeonse, and wolse prices, useful for judging whether a deposit is safe. Mostly Korean.
 - [Easy Law (찾기 쉬운 생활법령)](https://www.easylaw.go.kr) - Government plain-language explanations of lease law and tenant rights. Mostly Korean.
 - [Seoulstart Housing Hub](https://seoulstart.com/housing) - Jeonse, wolse, apartment types, lease documents, and getting the deposit back.
 - [How to Avoid Deposit Scams](https://seoulstart.com/guides/how-to-avoid-deposit-scams) - Checks to run before you hand over a deposit.
@@ -65,7 +69,7 @@ Official sources:
 - [National Tax Service (NTS, English)](https://www.nts.go.kr/english/main.do) - Income-tax guides for residents and nonresidents. English helpline 1588-0560, press 7.
 - [Hometax](https://www.hometax.go.kr/) - Online tax filing and year-end settlement (연말정산). Mainly Korean.
 - [National Pension Service (NPS)](https://www.nps.or.kr/jsppage/english/scheme/scheme_04.jsp) - Pension contributions and the lump-sum refund for departing foreign workers.
-- [Korea Exchange (KRX)](http://global.krx.co.kr/main/main.jsp) - Official KOSPI and KOSDAQ market operator: listings, indices, and trading rules.
+- [Korea Exchange (KRX)](https://global.krx.co.kr/main/main.jsp) - Official KOSPI and KOSDAQ market operator: listings, indices, and trading rules.
 - [Financial Supervisory Service (FSS)](https://www.fss.or.kr/eng/main/main.do) - Financial consumer protection for banks, brokerages, insurers, and remittance firms. Complaint line 1332.
 
 Taxes, pension, and benefits:
@@ -96,10 +100,19 @@ Banking and remittance (all commercial):
 - [Korea Emergency Room Guide](https://seoulstart.com/guides/korea-emergency-room-guide) - What to do, what to bring, and what it costs.
 - [Severance International Health Care Center](https://sev.severance.healthcare/sev-en/ihc/overview.do) - English-language clinic, including visa medical exams.
 - [Asan Medical Center International Clinic](https://eng.amc.seoul.kr/gb/lang/patients/contents/ourService.do) - One-stop foreigner clinic with interpretation.
+- [Korea Disease Control and Prevention Agency (KDCA)](https://kdca.go.kr/eng/index.do) - National public-health agency: infectious-disease alerts, health advisories, and the 1339 call center.
+- [Vaccination Helper (예방접종도우미)](https://nip.kdca.go.kr/) - KDCA's national immunization site: vaccination schedules, records, and certificates for children and adults. Mostly Korean.
 - [National Center for Mental Health](https://www.ncmh.go.kr/) - Korea's national psychiatric hospital and mental-health information hub.
 - [Find A Helpline (Korea)](https://findahelpline.com/countries/kr) - Maintained directory of crisis and mental-health lines, with language notes.
 - [Seoulstart English-Speaking Doctors Directory](https://seoulstart.com/directory/healthcare) - Verified hospitals, clinics, dentists, and 24/7 hotlines with confirmed English service.
 - [Seoulstart Mental Health Directory](https://seoulstart.com/directory/mental-health) - English-speaking therapists and psychiatrists, free counseling, and multilingual crisis lines.
+
+## Emergencies and Safety
+
+- [112 Police Interpretation](https://www.korean-culture.org/eng/webzine/202405/sub10.html) - Official explainer of the English and Chinese interpretation on the 112 police line, now 24 hours a day. Dial 112.
+- [Emergency Numbers in Korea (New Zealand Embassy)](https://www.mfat.govt.nz/en/countries-and-regions/asia/republic-of-korea-south/new-zealand-embassy/emergency-numbers-in-korea) - Embassy list of Korea's emergency lines, including interpretation on 112 police and 119 fire and ambulance.
+- [Emergency Ready App (안전디딤돌)](https://www.immigration.go.kr/bbs/immigration/221/563257/artclView.do) - Ministry of the Interior and Safety app for foreign residents: disaster alerts in foreign languages, shelters, hospitals, and first-aid guides.
+- [Emergency Alerts and Safety Apps](https://seoulstart.com/guides/korea-emergency-safety-apps-guide) - How Korean disaster alerts work and how to reach 112 and 119 without speaking Korean.
 
 ## Family Life
 
@@ -118,7 +131,7 @@ Banking and remittance (all commercial):
 - [Work24 (고용24)](https://www.work24.go.kr) - Government job search, employment insurance, and training. Mainly Korean.
 - [Ministry of Employment and Labor](https://www.moel.go.kr/english/) - Labor-rights site. The 1350 hotline handles unpaid wages and contract violations.
 - [Korea Support Center for Foreign Workers](https://www.gov.kr/portal/foreigner/en/m020402) - Directory of in-person worker support centers with interpretation.
-- [Migrant Workers Help Line (1644-0655)](https://www.migrantworkersrights.net/en/resources/migrant-workers-help-line) - Worker-rights counseling in 14 languages.
+- [Foreign Workers Help Center (1577-0071)](https://hrdwork.hrdkorea.or.kr/ENG/4/3) - Government counseling line for foreign workers and employers, with free interpretation in 17 languages. Dial 1577-0071, then pick a language.
 - [Village Lawyers for Foreigners (1345)](https://www.immigration.go.kr/immigration_eng/1858/subview.do) - Free three-way calls connecting any foreigner, including the undocumented, to a licensed Korean attorney.
 - [Korea Family Welfare Legal Counseling Center](https://www.lawhome.or.kr/en) - Free family-law counseling, with an English session every Monday evening.
 - [Korea Workers Compensation Service (COMWEL)](https://www.comwel.or.kr/eng/index.jsp) - Official industrial-accident insurance: workplace injury claims and medical care.
@@ -146,10 +159,16 @@ Airports and city transit:
 - [AREX](https://www.arex.or.kr/main.do) - Airport railroad between Incheon Airport, Gimpo Airport, and Seoul Station.
 - [Seoul Metro](https://www.seoulmetro.co.kr/en/) - Official Seoul subway maps, fares, and station information in English.
 
+Driving:
+
+- [Exchanging a Foreign Driver's License (KOROAD)](https://www.safedriving.or.kr/enGuide/selectEnGuide22.do) - Official Road Traffic Authority page on converting a foreign license to a Korean one: documents, fees, and which countries skip the written test.
+- [Safe Driving Portal (안전운전 통합민원)](https://www.safedriving.or.kr/main.do) - Road Traffic Authority portal for license tests, renewals, and international driving permits. Mostly Korean.
+
 ## Korean Language and KIIP
 
 - [King Sejong Institute (Online)](https://www.iksi.or.kr) - Free official Korean courses, usable from anywhere.
 - [TOPIK (official)](https://www.topik.go.kr) - Registration, schedules, results, and past papers.
+- [Study in Korea](https://www.studyinkorea.go.kr/en/main.do) - Official Ministry of Education site, run by NIIED, on universities, language programs, and scholarships for international students.
 - [Socinet (KIIP)](https://www.socinet.go.kr) - Enrollment for the free Korea Immigration and Integration Program. Mostly Korean.
 - [krdict (Korean Learners' Dictionary)](https://krdict.korean.go.kr/eng/mainAction) - Official learner's dictionary, bilingual into 11 languages.
 - [Seoulstart TOPIK Hub](https://seoulstart.com/topik) - Test structure, levels, registration, and visa points.
@@ -217,7 +236,7 @@ Everyday apps (all commercial):
 
 Helplines:
 
-- [1330 Korea Travel Hotline](https://english.visitkorea.or.kr/) - 24/7 interpretation in eight-plus languages that can bridge you to 119. Dial 1330.
+- [1330 Korea Travel Hotline](https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=140632&menuSn=454) - 24/7 interpretation in eight-plus languages that can bridge you to 119. Dial 1330.
 - [120 Dasan Call Center](https://english.seoul.go.kr/) - Seoul city services with foreign-language consultation. Dial 120.
 
 ## Other Government Portals
@@ -226,6 +245,7 @@ The portals below are the meta-references and cross-cutting services. Topic-spec
 
 - [Government 24 (gov.kr)](https://www.gov.kr/portal/main/en) - Master portal for about 12,000 public services. Many certificates issue in English.
 - [Korea Legal Aid Corporation (KLAC)](https://www.klac.or.kr) - Free legal consultation for residents under an income threshold. Hotline 132.
+- [1372 Consumer Counseling Center](https://www.1372.go.kr/) - Korea Consumer Agency network for refund, contract, and product complaints. Dial 1372. Mostly Korean.
 - [Busan Global City Foundation](https://www.busan.go.kr/eng/forecenter01) - Busan's main multilingual settlement-support center and call line for the southeast region.
 - [Korea.net Website Directory](https://www.korea.net/Resources/Website-Directory) - Official curated index of government and public-service sites.
 
@@ -249,3 +269,9 @@ For Seoulstart's full guide library, use the English site or the Korean, Vietnam
 
 - [Awesome Korea Travel](https://github.com/seoulstart/awesome-korea-travel#readme) - Visiting rather than moving: trip planning, transit, cities, and things to do.
 - [Awesome Build for Korea](https://github.com/seoulstart/awesome-build-for-korea#readme) - For companies and developers building a product for the Korean market.
+
+## Contributing
+
+Contributions are welcome. Read the [contribution guidelines](.github/CONTRIBUTING.md) first.
+
+This list is released under [CC BY 4.0](LICENSE). Please credit the original source when you reuse it.

@@ -9,8 +9,8 @@ labels: add-resource
 
 - **Name:**
 - **URL:**
-- **Section it belongs in:** (Arrival / Visa / Housing / Money / Healthcare / Family / Work / Korean Language / Culture / Pets / Government / Other)
-- **Language:** (English / Korean / Vietnamese / Filipino / Russian / Chinese / multilingual)
+- **Section it belongs in:** (Arrival and First 90 Days / Visas / Housing / Money, Banking, Investing, and Taxes / Healthcare and Insurance / Emergencies and Safety / Family Life / Work / Transportation / Korean Language and KIIP / Culture and Society / Food and Groceries / Pets / Communities and Everyday Apps / Other Government Portals / Multilingual Editions / Leaving Korea)
+- **Language:** (English / Korean / Vietnamese / Filipino / Russian / Chinese / Japanese / multilingual)
 
 ## Why this is worth adding
 

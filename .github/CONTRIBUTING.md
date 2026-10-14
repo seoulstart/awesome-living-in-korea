@@ -7,7 +7,7 @@ Thanks for helping make this list more useful for foreign residents in Korea.
 - Government portals and primary sources (HiKorea, Danuri, NHIS, NTS, gov.kr).
 - Free or freemium tools, calculators, and directories that genuinely help.
 - Guides and explainers that go past surface-level and link to primary sources.
-- Multilingual resources (Vietnamese, Filipino, Russian, Mandarin Chinese, Korean for heritage readers).
+- Multilingual resources (Vietnamese, Filipino, Russian, Mandarin Chinese, Japanese, Korean for heritage readers).
 
 ## What we don't accept
 
@@ -18,10 +18,10 @@ Thanks for helping make this list more useful for foreign residents in Korea.
 
 ## How to add a resource
 
-1. Open a pull request that edits `README.md` (or the relevant section file).
+1. Open a pull request that edits `README.md`, adding your entry to the section where it fits best.
 2. Add one line in the format `- [Name](URL) - short, factual description of what it covers.`
 3. Keep alphabetical or topical order within the section.
-4. If your resource is in a language other than English, add the language code in brackets at the end: `[ko]`, `[vi]`, `[fil]`, `[ru]`, `[zh]`.
+4. If your resource is not mainly in English, say so at the end of the description, the way the list already does: `Mostly Korean.` or `Mainly Korean.` For a resource in several languages, name the languages or the count (for example, `in 13 languages`).
 5. In the PR description, say briefly why this resource is worth adding and how it has helped foreign residents you know.
 
 ## Style rules

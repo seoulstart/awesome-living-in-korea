@@ -1,0 +1,72 @@
+name: Lint
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+  schedule:
+    - cron: "0 0 * * 1" # Mondays 00:00 UTC
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  awesome-lint:
+    if: github.event_name == 'push' || github.event_name == 'pull_request'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+      - run: npx --yes awesome-lint
+
+  link-check:
+    if: github.event_name == 'schedule' || github.event_name == 'workflow_dispatch'
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+      issues: write
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Check links
+        id: lychee
+        uses: lycheeverse/lychee-action@v2
+        with:
+          args: >-
+            --no-progress
+            --max-concurrency 4
+            --retry-wait-time 5
+            --max-retries 3
+            --timeout 30
+            --accept 200,206,429
+            --exclude '\.go\.kr'
+            --exclude '\.or\.kr'
+            --exclude 'facebook\.com'
+            --exclude 'reddit\.com'
+            README.md README.*.md .github/*.md
+          output: ./lychee/out.md
+          fail: false
+
+      - name: Find existing link-check issue
+        if: steps.lychee.outputs.exit_code != 0
+        id: find-issue
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          number=$(gh issue list --repo "$GITHUB_REPOSITORY" --state open \
+            --search "Link checker report in:title" --json number --jq '.[0].number // empty')
+          echo "number=$number" >> "$GITHUB_OUTPUT"
+
+      - name: Open or update issue
+        if: steps.lychee.outputs.exit_code != 0
+        uses: peter-evans/create-issue-from-file@v5
+        with:
+          title: Link checker report
+          content-filepath: ./lychee/out.md
+          issue-number: ${{ steps.find-issue.outputs.number }}
+          labels: report, automated issue

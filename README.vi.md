@@ -26,7 +26,7 @@ Bạn có thể đọc các hướng dẫn này bằng tiếng Việt tại [seo
 
 ## Đóng góp
 
-Cách thêm tài nguyên có trong [CONTRIBUTING.md](CONTRIBUTING.md). Tài nguyên tiếng Việt rất được hoan nghênh.
+Cách thêm tài nguyên có trong [CONTRIBUTING.md](.github/CONTRIBUTING.md). Tài nguyên tiếng Việt rất được hoan nghênh.
 
 ## Giấy phép
 
@@ -35,3 +35,5 @@ Danh sách này được phát hành theo [CC BY 4.0](LICENSE). Khi sử dụng 
 ## Chọn ngôn ngữ
 
 [English](README.md) · [한국어](README.ko.md) · [日本語](README.ja.md) · [简体中文](README.zh.md) · [繁體中文](README.zh-Hant.md) · [हिन्दी](README.hi.md) · [Español](README.es.md) · [العربية](README.ar.md) · [Français](README.fr.md) · [বাংলা](README.bn.md) · [Português](README.pt.md) · [Bahasa Indonesia](README.id.md) · [Bahasa Melayu](README.ms.md) · [Filipino](README.fil.md) · Tiếng Việt · [ไทย](README.th.md) · [မြန်မာဘာသာ](README.my.md) · [Монгол](README.mn.md) · [Deutsch](README.de.md) · [Italiano](README.it.md) · [Oʻzbekcha](README.uz.md) · [Русский](README.ru.md)
+
+Bạn đến Hàn Quốc để du lịch? Xem danh sách dành cho du khách: [Awesome Korea Travel](https://github.com/seoulstart/awesome-korea-travel#readme).

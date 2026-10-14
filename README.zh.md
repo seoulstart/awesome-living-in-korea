@@ -26,7 +26,7 @@
 
 ## 如何贡献
 
-添加资源的方式见 [CONTRIBUTING.md](CONTRIBUTING.md)。欢迎中文资源。
+添加资源的方式见 [CONTRIBUTING.md](.github/CONTRIBUTING.md)。欢迎中文资源。
 
 ## 许可
 
@@ -35,3 +35,5 @@
 ## 选择语言
 
 [English](README.md) · [한국어](README.ko.md) · [日本語](README.ja.md) · 简体中文 · [繁體中文](README.zh-Hant.md) · [हिन्दी](README.hi.md) · [Español](README.es.md) · [العربية](README.ar.md) · [Français](README.fr.md) · [বাংলা](README.bn.md) · [Português](README.pt.md) · [Bahasa Indonesia](README.id.md) · [Bahasa Melayu](README.ms.md) · [Filipino](README.fil.md) · [Tiếng Việt](README.vi.md) · [ไทย](README.th.md) · [မြန်မာဘာသာ](README.my.md) · [Монгол](README.mn.md) · [Deutsch](README.de.md) · [Italiano](README.it.md) · [Oʻzbekcha](README.uz.md) · [Русский](README.ru.md)
+
+来韩国旅行吗？也看看给旅行者的清单 [Awesome Korea Travel](https://github.com/seoulstart/awesome-korea-travel#readme)。

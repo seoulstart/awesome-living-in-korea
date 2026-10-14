@@ -26,7 +26,7 @@ Para sa full Seoulstart guide library, gamitin muna ang [English site](https://s
 
 ## Contributing
 
-Yung paraan ng pag-add ng resources ay nasa [CONTRIBUTING.md](CONTRIBUTING.md). Welcome pa rin ang Filipino resources para sa GitHub list na ito.
+Yung paraan ng pag-add ng resources ay nasa [CONTRIBUTING.md](.github/CONTRIBUTING.md). Welcome pa rin ang Filipino resources para sa GitHub list na ito.
 
 ## Lisensya
 
@@ -35,3 +35,5 @@ Naka-release ang list sa ilalim ng [CC BY 4.0](LICENSE). Pag gagamitin mo, pleas
 ## Mag-choose ng Wika
 
 [English](README.md) · [한국어](README.ko.md) · [日本語](README.ja.md) · [简体中文](README.zh.md) · [繁體中文](README.zh-Hant.md) · [हिन्दी](README.hi.md) · [Español](README.es.md) · [العربية](README.ar.md) · [Français](README.fr.md) · [বাংলা](README.bn.md) · [Português](README.pt.md) · [Bahasa Indonesia](README.id.md) · [Bahasa Melayu](README.ms.md) · Filipino · [Tiếng Việt](README.vi.md) · [ไทย](README.th.md) · [မြန်မာဘာသာ](README.my.md) · [Монгол](README.mn.md) · [Deutsch](README.de.md) · [Italiano](README.it.md) · [Oʻzbekcha](README.uz.md) · [Русский](README.ru.md)
+
+Bibisita lang sa Korea? Tingnan ang list para sa mga traveler: [Awesome Korea Travel](https://github.com/seoulstart/awesome-korea-travel#readme).
