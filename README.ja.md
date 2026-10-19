@@ -185,7 +185,7 @@
 
 - [Korea.net](https://www.korea.net/) - 文化、政策、歴史を10言語で解説する公式サイトです。
 - [Seoulstart Korea Decoded ハブ](https://seoulstart.com/ja/korea-decoded?utm_source=github&utm_medium=referral&utm_campaign=awesome-living-in-korea&utm_content=ja) - 韓国の文化、社会、日常のマナーをわかりやすく解説したガイドの拠点です。
-- [Seoulstart Korea Weekly](https://seoulstart.com/ja/weekly?utm_source=github&utm_medium=referral&utm_campaign=awesome-living-in-korea&utm_content=ja) - 韓国のニュース、政策の変更、住民に関わるルールの更新を伝える週刊ブリーフです。
+- [Seoulstart Korea Weekly](https://seoulstart.com/weekly?utm_source=github&utm_medium=referral&utm_campaign=awesome-living-in-korea&utm_content=ja) - 韓国のニュース、政策の変更、住民に関わるルールの更新を伝える週刊ブリーフです。
 - [韓国の年齢の数え方](https://seoulstart.com/ja/guides/korean-age-system?utm_source=github&utm_medium=referral&utm_campaign=awesome-living-in-korea&utm_content=ja) - 韓国での年齢のしくみと、2023年の変更点です。
 - [韓国現代史入門](https://seoulstart.com/ja/guides/modern-korean-history-101?utm_source=github&utm_medium=referral&utm_campaign=awesome-living-in-korea&utm_content=ja) - 今暮らしている韓国の背景にある、近い過去の歴史です。
 - [The Korea Herald](https://www.koreaherald.com) - 最大の英字日刊紙です。
@@ -220,7 +220,6 @@
 - [r/living_in_korea_now](https://www.reddit.com/r/living_in_korea_now/) - 住民向けの小さめのコミュニティです。地域のニュース、日常生活、時事の話題への制限が少なめです。
 - [r/teachinginkorea](https://www.reddit.com/r/teachinginkorea/) - 英語講師向けに、求人、契約、学校を話し合うコミュニティです。
 - [Every Expat in Korea（Facebook）](https://www.facebook.com/groups/everyexpatinkorea/) - 何でも質問できる大規模なQ&Aグループです。
-- [Korea4Expats](https://www.korea4expats.com/) - 韓国での生活と仕事についての、独立系の情報ライブラリです。
 
 日常アプリ（すべて民間）:
 

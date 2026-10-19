@@ -48,6 +48,12 @@ jobs:
             --exclude '\.or\.kr'
             --exclude 'facebook\.com'
             --exclude 'reddit\.com'
+            --exclude 'coupang\.com'
+            --exclude 'coupangeats\.com'
+            --exclude 'koreank9rescue\.org'
+            --exclude 'kobus\.co\.kr'
+            --exclude 'seoulmetro\.co\.kr'
+            --exclude 't-money\.co\.kr'
             README.md README.*.md .github/*.md
           output: ./lychee/out.md
           fail: false

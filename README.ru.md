@@ -221,7 +221,6 @@
 - [r/living_in_korea_now](https://www.reddit.com/r/living_in_korea_now/) - Сообщество резидентов поменьше, с меньшими ограничениями на местные новости, обсуждение быта и текущие события.
 - [r/teachinginkorea](https://www.reddit.com/r/teachinginkorea/) - Сообщество преподавателей английского: вакансии, договоры и школы.
 - [Every Expat in Korea (Facebook)](https://www.facebook.com/groups/everyexpatinkorea/) - Большая группа вопросов и ответов на любые темы.
-- [Korea4Expats](https://www.korea4expats.com/) - Независимая справочная библиотека о жизни и работе в Корее.
 
 Повседневные приложения (все коммерческие):
 

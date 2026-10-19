@@ -218,7 +218,6 @@ Diễn đàn cộng đồng:
 - [r/living_in_korea_now](https://www.reddit.com/r/living_in_korea_now/) - Cộng đồng nhỏ hơn dành cho cư dân, ít giới hạn hơn với tin tức địa phương, đời sống hằng ngày và thời sự.
 - [r/teachinginkorea](https://www.reddit.com/r/teachinginkorea/) - Cộng đồng giáo viên tiếng Anh, bàn về việc làm, hợp đồng và trường học.
 - [Every Expat in Korea (Facebook)](https://www.facebook.com/groups/everyexpatinkorea/) - Nhóm hỏi đáp lớn về mọi chủ đề.
-- [Korea4Expats](https://www.korea4expats.com/) - Thư viện tham khảo độc lập về sống và làm việc ở Hàn Quốc.
 
 Ứng dụng hằng ngày (đều là dịch vụ thương mại):
 

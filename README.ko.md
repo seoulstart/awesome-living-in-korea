@@ -218,7 +218,6 @@
 - [r/living_in_korea_now](https://www.reddit.com/r/living_in_korea_now/) - 지역 뉴스, 일상, 시사 이야기에 제약이 덜한 작은 거주자 커뮤니티예요.
 - [r/teachinginkorea](https://www.reddit.com/r/teachinginkorea/) - 영어 강사들이 일자리, 계약, 학교 이야기를 나누는 커뮤니티예요.
 - [Every Expat in Korea (Facebook)](https://www.facebook.com/groups/everyexpatinkorea/) - 무엇이든 묻고 답하는 대형 그룹이에요.
-- [Korea4Expats](https://www.korea4expats.com/) - 한국 생활과 취업을 다루는 독립 정보 사이트예요.
 
 생활 앱 (모두 민간 업체):
 

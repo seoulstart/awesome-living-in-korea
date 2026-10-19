@@ -220,7 +220,6 @@
 - [r/living_in_korea_now](https://www.reddit.com/r/living_in_korea_now/) - 规模较小的居民社区，对本地新闻、日常生活和时事讨论的限制更少。
 - [r/teachinginkorea](https://www.reddit.com/r/teachinginkorea/) - 英语教师社区，讨论工作、合同和学校。
 - [Every Expat in Korea（Facebook）](https://www.facebook.com/groups/everyexpatinkorea/) - 大型综合问答群组。
-- [Korea4Expats](https://www.korea4expats.com/) - 关于在韩国生活和工作的独立资料库。
 
 日常应用（均为商业服务）：
 

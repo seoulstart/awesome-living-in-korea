@@ -218,7 +218,6 @@ Community forums:
 - [r/living_in_korea_now](https://www.reddit.com/r/living_in_korea_now/) - Smaller resident-focused community with fewer restrictions on local news, daily-life discussion, and current events.
 - [r/teachinginkorea](https://www.reddit.com/r/teachinginkorea/) - Community for English teachers on jobs, contracts, and schools.
 - [Every Expat in Korea (Facebook)](https://www.facebook.com/groups/everyexpatinkorea/) - Large general-purpose question-and-answer group.
-- [Korea4Expats](https://www.korea4expats.com/) - Independent reference library on living and working in Korea.
 
 Everyday apps (all commercial):
 
