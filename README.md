@@ -59,6 +59,7 @@ Also available in: [한국어](README.ko.md) · [日本語](README.ja.md) · [�
 - [Internet Registry Office (인터넷등기소)](https://www.iros.go.kr/) - Supreme Court registry where you view or print a property's title record (등기사항증명서) to check ownership and mortgages before paying a deposit. Mostly Korean.
 - [MOLIT Real Transaction Price System (실거래가 공개시스템)](https://rt.molit.go.kr/) - Ministry of Land, Infrastructure and Transport records of actual sale, jeonse, and wolse prices, useful for judging whether a deposit is safe. Mostly Korean.
 - [Easy Law (찾기 쉬운 생활법령)](https://www.easylaw.go.kr) - Government plain-language explanations of lease law and tenant rights. Mostly Korean.
+- [How to Pay Utility Bills in Korea](https://koreamadeeasy.com/posts/pay-utility-bills-korea-foreigner-guide) - Paying electricity (KEPCO), city gas, Seoul water, and apartment maintenance fees (관리비) by virtual account, convenience-store counter, or bank app, with the payment methods CU lists for each bill.
 - [Seoulstart Housing Hub](https://seoulstart.com/housing) - Jeonse, wolse, apartment types, lease documents, and getting the deposit back.
 - [How to Avoid Deposit Scams](https://seoulstart.com/guides/how-to-avoid-deposit-scams) - Checks to run before you hand over a deposit.
 
