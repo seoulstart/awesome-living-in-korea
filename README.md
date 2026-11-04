@@ -37,6 +37,7 @@ Also available in: [한국어](README.ko.md) · [日本語](README.ja.md) · [�
 - [Seoulstart Directory](https://seoulstart.com/directory) - Curated, verified directories of English-speaking services: doctors, lawyers, language schools, vets, halal food, and government support centers.
 - [ARC Registration Guide](https://seoulstart.com/guides/arc-registration-guide) - The 90-day deadline, documents, and walkthrough at an immigration office.
 - [Korea Arrival Checklist](https://seoulstart.com/tools/arrival-checklist) - ARC, bank account, NHIS, utilities, and the rest of the first weeks, as a checklist.
+- [konnected Field Notes](https://konnected.kr/guides) - Free, source-linked checklists for settling in Korea, preparing for part-time work, and comparing shared housing.
 
 ## Visas
 
